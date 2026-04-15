@@ -1,7 +1,7 @@
-# AXIOM-QUANTUM v3.1 Security Audit Report
+# AXIOM-QUANTUM v1.0 Security Audit Report
 
 **Run ID:** `run_20260416_004103`  **Timestamp:** 2026-04-16 00:41:03
-**Engine:** QSVM v3.1 (vectorized quantum features + LinearSVC)
+**Engine:** QSVM v1.0 (vectorized quantum features + LinearSVC)
 **Input:** `../Planck-99/someDEV/IoTsyscalls.csv`  **Qubits:** 8  **Hilbert dim:** 256
 
 ## Training Metrics
@@ -137,4 +137,4 @@
 
 *... 1404 more records in audit_trail.json*
 
-*AXIOM-QUANTUM v3.1*
+*AXIOM-QUANTUM v1.0*
