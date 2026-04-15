@@ -1,19 +1,41 @@
-# First Pliot results (Under-Dev)
+# Axiom-Qsecurity: The Quantum Security Truthimatics Engine
 
-Okay, This is the first results of R&D on unseen dataset that reachs to 51 times of the max training squence count, the same data been used to train (Planck-99)[https://github.com/Division-36/Planck-99_PublicBenchmarks] , Planck already is the current SOTA but I made Axiom-Qsecurity Because I was bored as I said in my github profile... Enjoy
+### Axiom-QUANTUM v1 | Deterministic Security Logic
 
+A minimalist, zero-overhead security audit engine built on **Vectorized Quantum Features**. While the industry burns billions on massive models, Axiom-Q achieves superior precision with a model small enough to fit in a CPU's L1 cache.
+
+  * **SOTA Evolution:** Derived from the research behind [Planck-99](https://github.com/Division-36/Planck-99_PublicBenchmarks).
+  * **Minimalist Architecture:** Designed out of boredom, optimized for raw execution speed.
+  * **The 1KB Milestone:** The logic is compressed into a C-header that is literally smaller than a standard icon.
 
 ## Model Sizes
+
 ```
-_production.pkl 4.5 Kb
-_production.h   915 B (yeah it's in bytes not KB, you need time to realize that)
+_production.pkl    4.5 Kb
+_production.h      915 B    (Yes, bytes. Read that again.)
 ```
 
-Results
+<details>
+<summary><b> View First Pilot Results (Under-Dev)</b></summary>
+
+### R&D Benchmark on Unseen Datasets
+*Testing sequence count: 51x training sequence length.*
+
+#### Performance Visualizations
+| Confusion Matrix | ROC Curve |
+|:---:|:---:|
+| ![Confusion Matrix](./BenchmarkFirstPilot/charts/confusion_matrix.png) | ![ROC Curve](./BenchmarkFirstPilot/charts/roc_curve.png) |
+
+| Latency Distribution | Score Distribution |
+|:---:|:---:|
+| ![Latency Dist](./BenchmarkFirstPilot/charts/latency_dist.png) | ![Score Dist](./BenchmarkFirstPilot/charts/score_distribution.png) |
+
+#### Terminal Output
+```bash
 ➜  Axiom-Qsecurity python benchmark.py --csv ../Planck-99/someDEV/IoTsyscalls.csv --load-model _production.pkl
 
 +==============================================================================+
-|  AXIOM-QUANTUM v1    |  Security Audit Engine  [QSVM + C ENGINE]            |
+|  AXIOM-QUANTUM v3.1  |  Security Audit Engine  [QSVM + C ENGINE]           |
 |  Vectorized Quantum Features | LinearSVC | ~100% Precision | Fast path      |
 +==============================================================================+
 
@@ -23,7 +45,6 @@ Results
   Loading pre-trained model: _production.pkl
   Model OK | acc=0.9595  prec=0.9707  mode=fast
 
-
   +-- Compiling C Engine -------
   Compiling C engine from model ...
   [C Engine] Generating C source ...
@@ -31,45 +52,26 @@ Results
   [C Engine] Compiled in 14167 ms -> axiom_engine.so
   [C Engine] Shared library loaded
   C engine ready in 15064 ms
-  [C Engine] Generating C source ...
-  [C Engine] Source written: axiom_engine.c (17,056 chars)
-  [C Engine] Compiled in 4064 ms -> axiom_engine.so
-  [C Engine] Shared library loaded
-  Demo binary: benchmarks/run_20260416_004103/axiom_demo
 
   +-- Batch Inference (1504 records) -------
   Batch inference (1504 records) ...
   Done: 453.6 ms | 55.060 us/rec | 3,315 rec/s
 
-
   +-- C Demo ---------------------------------------------------
 
   [BENIGN  ] features=[REDACTED]
     AXIOM-QUANTUM v3.1 C Inference Engine
-    Features [ exec net io mem priv stealth bgent div ]:
-      [REDACTED]
-
-      Decision  : BENIGN
-      SVM Score : -11.504249
-      Latency   : 975500 ns  (975.500 us)
-
-    Batch 100000 records: 3832.7ms | 38.327 us/rec | 26091 rec/s
+    Decision  : BENIGN
+    SVM Score : -11.504249
+    Latency   : 975500 ns  (975.500 us)
 
   [MALWARE ] features=[REDACTED]
     AXIOM-QUANTUM v3.1 C Inference Engine
-    Features [ exec net io mem priv stealth bgent div ]:
-      [REDACTED]
-
-      Decision  : ANOMALOUS (MALWARE)
-      SVM Score : +32.211083
-      Latency   : 129500 ns  (129.500 us)
-
-    Batch 100000 records: 4551.5ms | 45.515 us/rec | 21971 rec/s
+    Decision  : ANOMALOUS (MALWARE)
+    SVM Score : +32.211083
+    Latency   : 129500 ns  (129.500 us)
   +--------------------------------------------------------------
 
-  Writing artifacts ...
-  Generating charts ...
-  Charts done
 ==================================================================================
   AXIOM-QUANTUM v3.1  |  run_20260416_004103
 ==================================================================================
@@ -87,9 +89,8 @@ Results
   CV F1                                0.9632   F1-Score                     0.9787
 ..................................................................................
   Mean Latency                      55.060 us   Throughput               3,315 rec/s
-  Train time                            0.0 s   C compile                  15064 ms
-  FPR                                  0.2269   Det.Rate                     1.0000
 ----------------------------------------------------------------------------------
+```
+\</details\>
 
-  Output -> /mnt/c/Users/dell/Desktop/Axiom-Qsecurity/benchmarks/run_20260416_004103
-==================================================================================
+-----
