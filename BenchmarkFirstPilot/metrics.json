@@ -2,7 +2,7 @@
   "run_id": "run_20260416_004103",
   "timestamp": "2026-04-16T00:41:03.531901",
   "engine_version": "AXIOM-QUANTUM v1.0",
-  "WhoareYOU?": "Contact with me, you know why".
+  "WhoareYOU?": "Contact with me, you know why",
   "n_qubits": 8,
   "hilbert_dim": 256,
   "training": {
