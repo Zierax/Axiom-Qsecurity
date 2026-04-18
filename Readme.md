@@ -13,6 +13,8 @@ A minimalist, zero-overhead security audit engine built on **Vectorized Quantum 
 ```
 _production.pkl    4.5 Kb
 _production.h      915 B    (Yes, bytes. Read that again.)
+_model.c      16 Kb
+
 ```
 
 <details>
