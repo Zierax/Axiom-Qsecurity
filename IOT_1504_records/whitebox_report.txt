@@ -1,0 +1,63 @@
+==================================================================================
+  AXIOM-QUANTUM v1.0  |  Whitebox Audit Report
+==================================================================================
+  Dataset:       IoTsyscalls.csv
+  Model:         model_v1.pkl
+  Records:       1504 (1266 malware, 238 benign)
+  Features:      32
+
+  --- Performance ---
+  Accuracy:      1.0000
+  Precision:     1.0000
+  Recall:        1.0000
+  F1-Score:      1.0000
+  FPR:           0.0000
+  AUC:           1.0000
+  TP=1266  FP=0  FN=0  TN=238
+
+  --- Verdict Breakdown ---
+  PROBABLE          1489/1504 ( 99.0%)  acc=1.0000
+  UNCERTAIN           15/1504 (  1.0%)  acc=1.0000
+
+  --- Gate Statistics (mean +- std) ---
+  RF Confidence        0.9829 +- 0.0541
+  QSVM Confidence      0.6433 +- 0.1238
+  Entropy              0.4509 +- 0.0662
+  MDL                  0.0055 +- 0.0674
+
+  --- Quantum Collapse Metrics ---
+  collapse_magnitude        mean=0.2929  std=0.0204
+  collapse_coherence        mean=0.6829  std=0.0197
+  collapse_entropy          mean=0.7349  std=0.0245
+  collapse_score            mean=0.1999  std=0.0134
+
+  --- Calibration ---
+  Temperature:    0.5928
+  ECE:            0.0065
+  Threshold:      0.7757
+
+  --- Confusion Matrix ---
+              Pred Mal  Pred Ben
+  Actual Mal      1266         0
+  Actual Ben         0       238
+
+  --- Model Summary ---
+  Version:       v1.0
+  Type:          ensemble
+  Holdout Acc:   0.9798
+  CV Acc:        0.9903
+   Pruned Trees:  11
+
+  --- Resource & Power Estimate ---
+  Binary Size:       23.4 KB (compiled .so)
+  RAM Estimate:      ~47 KB (code + node data)
+  Flash Estimate:    ~35 KB (embedded deployment)
+  Python Latency:    9026.8 us/rec (full ensemble+Truthimatics)
+  C Engine Latency:  ~5 us/rec @ 187K rec/s (x86-64 gcc -O3)
+  Throughput:        ~111 rec/s (Python fallback)
+  Single Inf.:       ~4-58 us (C engine, cold start)
+  Energy/Inf.:       ~0.001 J (x86-64), ~0.00001 J (ARM M4 @ 100 MHz)
+  Power (load):      ~0.5-2 W (x86-64), ~0.01-0.1 W (ARM Cortex-M4)
+  Power (idle):      ~0.05 W (x86-64), ~0.001 W (ARM sleep)
+
+==================================================================================

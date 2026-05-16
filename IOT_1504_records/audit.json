@@ -1,0 +1,7502 @@
+[
+  {
+    "index": 0,
+    "true_label": 1,
+    "calibrated_score": 0.9998527234173795,
+    "prediction": 1,
+    "tci": 0.7991864928554875,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6372919395669006,
+      "entropy": 0.45406640302596885,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 1,
+    "true_label": 1,
+    "calibrated_score": 0.999837440210236,
+    "prediction": 1,
+    "tci": 0.7905902190200259,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933313414254341,
+      "qsvm": 0.6248199149140022,
+      "entropy": 0.4205370262484592,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 2,
+    "true_label": 0,
+    "calibrated_score": 0.0004602813093252043,
+    "prediction": 0,
+    "tci": 0.7604743229081852,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9628171256206663,
+      "qsvm": 0.49152635426109087,
+      "entropy": 0.4453588801495685,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 3,
+    "true_label": 1,
+    "calibrated_score": 0.9999022128728875,
+    "prediction": 1,
+    "tci": 0.8066296466813025,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9949991598050747,
+      "qsvm": 0.7401382333388027,
+      "entropy": 0.38149036921410345,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 4,
+    "true_label": 0,
+    "calibrated_score": 0.00017607090775233412,
+    "prediction": 0,
+    "tci": 0.7960726590247149,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9974756549180901,
+      "qsvm": 0.6823308005857449,
+      "entropy": 0.3740018702800933,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 5,
+    "true_label": 0,
+    "calibrated_score": 0.00026328865527721615,
+    "prediction": 0,
+    "tci": 0.8006002403744524,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9586387647427987,
+      "qsvm": 0.6547420665332506,
+      "entropy": 0.532944934944709,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 6,
+    "true_label": 1,
+    "calibrated_score": 0.9998231242942196,
+    "prediction": 1,
+    "tci": 0.7852547528725615,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9916647060235622,
+      "qsvm": 0.6062258548489123,
+      "entropy": 0.40908219593983136,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 7,
+    "true_label": 1,
+    "calibrated_score": 0.9998294599036481,
+    "prediction": 1,
+    "tci": 0.7867288513122151,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5996620754224619,
+      "entropy": 0.40886564542327336,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 8,
+    "true_label": 0,
+    "calibrated_score": 0.0002294578033941765,
+    "prediction": 0,
+    "tci": 0.7926383790398995,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9959203061880446,
+      "qsvm": 0.6206098126286133,
+      "entropy": 0.4354679124310925,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 9,
+    "true_label": 0,
+    "calibrated_score": 0.00018953319201201293,
+    "prediction": 0,
+    "tci": 0.8101034984519777,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9696915259312481,
+      "qsvm": 0.7121553123864106,
+      "entropy": 0.5070330408185176,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 10,
+    "true_label": 1,
+    "calibrated_score": 0.9998113386277893,
+    "prediction": 1,
+    "tci": 0.7846461426348055,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5723144755761578,
+      "entropy": 0.4285948650126432,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 11,
+    "true_label": 1,
+    "calibrated_score": 0.9998762479015392,
+    "prediction": 1,
+    "tci": 0.8024539068006169,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6792452881197443,
+      "entropy": 0.4232013574610976,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 12,
+    "true_label": 1,
+    "calibrated_score": 0.9997443763628351,
+    "prediction": 1,
+    "tci": 0.7648043030514817,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9966655462184872,
+      "qsvm": 0.48880553164017465,
+      "entropy": 0.3996242167410811,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 13,
+    "true_label": 1,
+    "calibrated_score": 0.999795653436128,
+    "prediction": 1,
+    "tci": 0.7787528375818482,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5497233763770409,
+      "entropy": 0.414344708602939,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 14,
+    "true_label": 0,
+    "calibrated_score": 0.0004063244036311052,
+    "prediction": 0,
+    "tci": 0.766716418770901,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9410203218628957,
+      "qsvm": 0.5763281736324091,
+      "entropy": 0.43106554226251337,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 15,
+    "true_label": 0,
+    "calibrated_score": 0.00019601458783841187,
+    "prediction": 0,
+    "tci": 0.8065140408694026,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9969202550099675,
+      "qsvm": 0.657888763834304,
+      "entropy": 0.49100631431390784,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 16,
+    "true_label": 1,
+    "calibrated_score": 0.9998248402922576,
+    "prediction": 1,
+    "tci": 0.792471792535505,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9888878930465308,
+      "qsvm": 0.6140827957064731,
+      "entropy": 0.4588566979386545,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 17,
+    "true_label": 0,
+    "calibrated_score": 0.0001296072310506369,
+    "prediction": 0,
+    "tci": 0.7694141195500774,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9068862525391195,
+      "qsvm": 0.8801474933777852,
+      "entropy": 0.03916097483617024,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 18,
+    "true_label": 1,
+    "calibrated_score": 0.9998186640811964,
+    "prediction": 1,
+    "tci": 0.7795459625296804,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5831922770699353,
+      "entropy": 0.3772108615898156,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 19,
+    "true_label": 0,
+    "calibrated_score": 0.00016826042165959365,
+    "prediction": 0,
+    "tci": 0.8197344754898924,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9916986765914877,
+      "qsvm": 0.7024855534915628,
+      "entropy": 0.5492266270555547,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 20,
+    "true_label": 1,
+    "calibrated_score": 0.9998334068101783,
+    "prediction": 1,
+    "tci": 0.7936238461663118,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6058269741515611,
+      "entropy": 0.45247712559417463,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 21,
+    "true_label": 1,
+    "calibrated_score": 0.999785554396471,
+    "prediction": 1,
+    "tci": 0.7781545856689672,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9899988795518204,
+      "qsvm": 0.5570215429433063,
+      "entropy": 0.4244915859539349,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 22,
+    "true_label": 1,
+    "calibrated_score": 0.9998524490628514,
+    "prediction": 1,
+    "tci": 0.8005904777262818,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6368283438551586,
+      "entropy": 0.4654772019989702,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 23,
+    "true_label": 1,
+    "calibrated_score": 0.9998709840501607,
+    "prediction": 1,
+    "tci": 0.8020452700777381,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6694429449623572,
+      "entropy": 0.43342251594985165,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 24,
+    "true_label": 1,
+    "calibrated_score": 0.9999517306917542,
+    "prediction": 1,
+    "tci": 0.8412909418004395,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.8718729207302287,
+      "entropy": 0.4753291194011897,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 25,
+    "true_label": 0,
+    "calibrated_score": 0.00023973998628709723,
+    "prediction": 0,
+    "tci": 0.7861059573006208,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9954440928982723,
+      "qsvm": 0.6102102524650205,
+      "entropy": 0.40120979326781453,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 26,
+    "true_label": 1,
+    "calibrated_score": 0.9998369009464751,
+    "prediction": 1,
+    "tci": 0.7946615450369726,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6113541694166869,
+      "entropy": 0.4532064467973537,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 27,
+    "true_label": 1,
+    "calibrated_score": 0.9999024927484539,
+    "prediction": 1,
+    "tci": 0.8156071809378456,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7328162045306342,
+      "entropy": 0.45554499421498634,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 28,
+    "true_label": 1,
+    "calibrated_score": 0.9998263276899771,
+    "prediction": 1,
+    "tci": 0.7867499498615771,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5948262506897406,
+      "entropy": 0.4153120556646647,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 29,
+    "true_label": 1,
+    "calibrated_score": 0.9996620214783359,
+    "prediction": 1,
+    "tci": 0.776601887579877,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9899966386554624,
+      "qsvm": 0.40728115590006775,
+      "entropy": 0.5818499742680739,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 30,
+    "true_label": 1,
+    "calibrated_score": 0.9998186640811964,
+    "prediction": 1,
+    "tci": 0.7795459625296804,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5831922770699353,
+      "entropy": 0.3772108615898156,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 31,
+    "true_label": 1,
+    "calibrated_score": 0.9998214854116165,
+    "prediction": 1,
+    "tci": 0.7895800898177396,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5874437328810289,
+      "entropy": 0.445722694998364,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 32,
+    "true_label": 1,
+    "calibrated_score": 0.9998142835989315,
+    "prediction": 1,
+    "tci": 0.7860263815223096,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5766604902058239,
+      "entropy": 0.4332007275261563,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 33,
+    "true_label": 0,
+    "calibrated_score": 0.00016547483270797027,
+    "prediction": 0,
+    "tci": 0.8054483908411851,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9992525190731987,
+      "qsvm": 0.6936276765756216,
+      "entropy": 0.4290039059815718,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 34,
+    "true_label": 1,
+    "calibrated_score": 0.9998436817650913,
+    "prediction": 1,
+    "tci": 0.8019785851083139,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9966655462184872,
+      "qsvm": 0.6285132071915244,
+      "entropy": 0.4943407968054239,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 35,
+    "true_label": 0,
+    "calibrated_score": 0.00016554651118388486,
+    "prediction": 0,
+    "tci": 0.8176312349048837,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.956258309014623,
+      "qsvm": 0.7625780991298247,
+      "entropy": 0.5261355646678711,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 36,
+    "true_label": 1,
+    "calibrated_score": 0.9983829198046847,
+    "prediction": 1,
+    "tci": 0.7283143548296864,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.7446309674280571,
+      "qsvm": 0.4924693242881649,
+      "entropy": 0.6529439622862492,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 37,
+    "true_label": 1,
+    "calibrated_score": 0.9997956248284219,
+    "prediction": 1,
+    "tci": 0.7842567213382624,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5590591885257256,
+      "entropy": 0.45264405717183553,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 38,
+    "true_label": 1,
+    "calibrated_score": 0.9995543764298345,
+    "prediction": 1,
+    "tci": 0.7349014422423121,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9710223383767831,
+      "qsvm": 0.34996738604746325,
+      "entropy": 0.42693494518285197,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 39,
+    "true_label": 1,
+    "calibrated_score": 0.9998334069120632,
+    "prediction": 1,
+    "tci": 0.7936238734364639,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6058271343498225,
+      "entropy": 0.45247712559417463,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 40,
+    "true_label": 1,
+    "calibrated_score": 0.9998215202992904,
+    "prediction": 1,
+    "tci": 0.7854348005736476,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5874965303610163,
+      "entropy": 0.4150353129582774,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 41,
+    "true_label": 1,
+    "calibrated_score": 0.9998134276608697,
+    "prediction": 1,
+    "tci": 0.7876433176463224,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.584357513093716,
+      "entropy": 0.44570448883365915,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 42,
+    "true_label": 1,
+    "calibrated_score": 0.9998698372362229,
+    "prediction": 1,
+    "tci": 0.8085207165002541,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.991460768836852,
+      "qsvm": 0.682139657589653,
+      "entropy": 0.4871106236448471,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 43,
+    "true_label": 1,
+    "calibrated_score": 0.9999090949606099,
+    "prediction": 1,
+    "tci": 0.8301196444097769,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.978123202699261,
+      "qsvm": 0.7813001391055227,
+      "entropy": 0.5578891107079954,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 44,
+    "true_label": 0,
+    "calibrated_score": 0.0002392125687661408,
+    "prediction": 0,
+    "tci": 0.7966640872679683,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9914768578091413,
+      "qsvm": 0.6183309108898885,
+      "entropy": 0.4788326945067259,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 45,
+    "true_label": 1,
+    "calibrated_score": 0.9998359552247597,
+    "prediction": 1,
+    "tci": 0.7934310547317451,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6098515494907276,
+      "entropy": 0.4458723321787737,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 46,
+    "true_label": 1,
+    "calibrated_score": 0.9998427484616227,
+    "prediction": 1,
+    "tci": 0.7859932172461488,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.971104886622137,
+      "qsvm": 0.6729888921209964,
+      "entropy": 0.37171948074747885,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 47,
+    "true_label": 1,
+    "calibrated_score": 0.9998334068101783,
+    "prediction": 1,
+    "tci": 0.7936238461663118,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6058269741515611,
+      "entropy": 0.45247712559417463,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 48,
+    "true_label": 1,
+    "calibrated_score": 0.9999077474574833,
+    "prediction": 1,
+    "tci": 0.8332317442302293,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.900341939194307,
+      "qsvm": 0.8874989076835651,
+      "entropy": 0.5828531247481242,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 49,
+    "true_label": 1,
+    "calibrated_score": 0.9998493901907824,
+    "prediction": 1,
+    "tci": 0.7960463902973416,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6316946020162713,
+      "entropy": 0.43729987200222675,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 50,
+    "true_label": 1,
+    "calibrated_score": 0.9998219749761863,
+    "prediction": 1,
+    "tci": 0.7872209228438899,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5881851290967668,
+      "entropy": 0.4273492245636665,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 51,
+    "true_label": 1,
+    "calibrated_score": 0.9999494025553057,
+    "prediction": 1,
+    "tci": 0.8378354453956792,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.8737316833962928,
+      "entropy": 0.45707288218944964,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 52,
+    "true_label": 1,
+    "calibrated_score": 0.9998269109576162,
+    "prediction": 1,
+    "tci": 0.7871693431452622,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5957230728818675,
+      "entropy": 0.4172683449124109,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 53,
+    "true_label": 1,
+    "calibrated_score": 0.9994812364273005,
+    "prediction": 1,
+    "tci": 0.7912660068802864,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.7275271808532147,
+      "qsvm": 0.8022782811176896,
+      "entropy": 0.6740514766279526,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 54,
+    "true_label": 1,
+    "calibrated_score": 0.9998293067012852,
+    "prediction": 1,
+    "tci": 0.7921438805588523,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5994244031785108,
+      "entropy": 0.44956751641713133,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 55,
+    "true_label": 1,
+    "calibrated_score": 0.9997237139570592,
+    "prediction": 1,
+    "tci": 0.7667322926625074,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9849164251531419,
+      "qsvm": 0.491664419212059,
+      "entropy": 0.43673564425816974,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 56,
+    "true_label": 1,
+    "calibrated_score": 0.9998261886273179,
+    "prediction": 1,
+    "tci": 0.7900939434677954,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5946126757592939,
+      "entropy": 0.44043396371748117,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 57,
+    "true_label": 1,
+    "calibrated_score": 0.9998273694977731,
+    "prediction": 1,
+    "tci": 0.790711973517528,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5964292893768217,
+      "entropy": 0.4427137429959814,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 58,
+    "true_label": 1,
+    "calibrated_score": 0.999895618121225,
+    "prediction": 1,
+    "tci": 0.812469727551003,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9986659494351804,
+      "qsvm": 0.7200816102264813,
+      "entropy": 0.45058221112692937,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 59,
+    "true_label": 1,
+    "calibrated_score": 0.9998233265039533,
+    "prediction": 1,
+    "tci": 0.7868083004705673,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5902376346300315,
+      "entropy": 0.42166575214145885,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 60,
+    "true_label": 1,
+    "calibrated_score": 0.9998243923328622,
+    "prediction": 1,
+    "tci": 0.7922018828552047,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5918622945771236,
+      "entropy": 0.4595582506322744,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 61,
+    "true_label": 1,
+    "calibrated_score": 0.999813448559859,
+    "prediction": 1,
+    "tci": 0.7871219941350576,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5754245745595606,
+      "entropy": 0.4427734308499957,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 62,
+    "true_label": 1,
+    "calibrated_score": 0.9999618537379604,
+    "prediction": 1,
+    "tci": 0.8463671181361323,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.9137048536281152,
+      "entropy": 0.45583401553188957,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 63,
+    "true_label": 1,
+    "calibrated_score": 0.9988805307122314,
+    "prediction": 1,
+    "tci": 0.7397993340984725,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9656625098728149,
+      "qsvm": 0.39686724349812824,
+      "entropy": 0.417245136361945,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 64,
+    "true_label": 1,
+    "calibrated_score": 0.9998263447381635,
+    "prediction": 1,
+    "tci": 0.7883135736521016,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5948524400865899,
+      "entropy": 0.42689786400407775,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 65,
+    "true_label": 0,
+    "calibrated_score": 9.900394051493086e-05,
+    "prediction": 0,
+    "tci": 0.8342784455496625,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9992525190731987,
+      "qsvm": 0.8025836115900326,
+      "entropy": 0.5182404998919576,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 66,
+    "true_label": 1,
+    "calibrated_score": 0.9999406231736448,
+    "prediction": 1,
+    "tci": 0.8336420377483393,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9455539371582615,
+      "qsvm": 0.9065098902244635,
+      "entropy": 0.46637950609612844,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 67,
+    "true_label": 1,
+    "calibrated_score": 0.9998161762697942,
+    "prediction": 1,
+    "tci": 0.7870974083220472,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5883742819463813,
+      "entropy": 0.43661917760693464,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 68,
+    "true_label": 0,
+    "calibrated_score": 0.00015476957287070687,
+    "prediction": 0,
+    "tci": 0.8150410348452377,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.992585852406532,
+      "qsvm": 0.7196780986524678,
+      "entropy": 0.4861670825801392,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 69,
+    "true_label": 1,
+    "calibrated_score": 0.999870458314011,
+    "prediction": 1,
+    "tci": 0.8000061360428309,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6684782746599955,
+      "entropy": 0.4186131753539691,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 70,
+    "true_label": 1,
+    "calibrated_score": 0.999808271476701,
+    "prediction": 1,
+    "tci": 0.7827939081618102,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5678251550592476,
+      "entropy": 0.4207699345870024,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 71,
+    "true_label": 1,
+    "calibrated_score": 0.9998261886273179,
+    "prediction": 1,
+    "tci": 0.7900939434677954,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5946126757592939,
+      "entropy": 0.44043396371748117,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 72,
+    "true_label": 1,
+    "calibrated_score": 0.9998278820779378,
+    "prediction": 1,
+    "tci": 0.7846103458521525,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.597219965855544,
+      "entropy": 0.396274411645436,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 73,
+    "true_label": 1,
+    "calibrated_score": 0.9999115721955296,
+    "prediction": 1,
+    "tci": 0.8169064766510348,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7536833652082634,
+      "entropy": 0.4363654345855263,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 74,
+    "true_label": 0,
+    "calibrated_score": 0.00047958249455514634,
+    "prediction": 0,
+    "tci": 0.7594158676484581,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9572614454592897,
+      "qsvm": 0.49147632844326083,
+      "entropy": 0.4507763105442317,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 75,
+    "true_label": 1,
+    "calibrated_score": 0.9998703617844615,
+    "prediction": 1,
+    "tci": 0.8023171658752629,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6683014276839636,
+      "entropy": 0.4371272971416073,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 76,
+    "true_label": 1,
+    "calibrated_score": 0.9998470041230991,
+    "prediction": 1,
+    "tci": 0.7974185424628908,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933333333333334,
+      "qsvm": 0.6400309222237677,
+      "entropy": 0.4523073694247352,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 77,
+    "true_label": 1,
+    "calibrated_score": 0.9998134828045409,
+    "prediction": 1,
+    "tci": 0.7868551563629987,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5754752022863652,
+      "entropy": 0.4407579617625328,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 78,
+    "true_label": 1,
+    "calibrated_score": 0.999835002602774,
+    "prediction": 1,
+    "tci": 0.7855985404550638,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.980552599070093,
+      "qsvm": 0.6446391243133527,
+      "entropy": 0.3862042202357099,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 79,
+    "true_label": 1,
+    "calibrated_score": 0.999791271373198,
+    "prediction": 1,
+    "tci": 0.8176769076848099,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.8058696333009443,
+      "qsvm": 0.8657032104260076,
+      "entropy": 0.6522735804365482,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 80,
+    "true_label": 1,
+    "calibrated_score": 0.999819985353411,
+    "prediction": 1,
+    "tci": 0.7899647414738509,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5851788467866064,
+      "entropy": 0.45141375532436534,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 81,
+    "true_label": 1,
+    "calibrated_score": 0.9997961236392903,
+    "prediction": 1,
+    "tci": 0.7831150435098941,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5597524229919809,
+      "entropy": 0.4435987979002549,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 82,
+    "true_label": 1,
+    "calibrated_score": 0.9982166485053229,
+    "prediction": 1,
+    "tci": 0.7221091104298895,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.7424047615295444,
+      "qsvm": 0.4654265181067073,
+      "entropy": 0.6529737243378193,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 83,
+    "true_label": 1,
+    "calibrated_score": 0.9998875794057802,
+    "prediction": 1,
+    "tci": 0.8221405503477244,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.978123202699261,
+      "qsvm": 0.7368933032033347,
+      "entropy": 0.5521617373133115,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 84,
+    "true_label": 1,
+    "calibrated_score": 0.9998243923328622,
+    "prediction": 1,
+    "tci": 0.7922018828552047,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5918622945771236,
+      "entropy": 0.4595582506322744,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 85,
+    "true_label": 1,
+    "calibrated_score": 0.9998850555952141,
+    "prediction": 1,
+    "tci": 0.8246100761774626,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933310924369747,
+      "qsvm": 0.707390663920566,
+      "entropy": 0.5787950136467446,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 86,
+    "true_label": 1,
+    "calibrated_score": 0.9998280205700106,
+    "prediction": 1,
+    "tci": 0.7929459639405114,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933333333333334,
+      "qsvm": 0.6103420357208078,
+      "entropy": 0.4570199467951885,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 87,
+    "true_label": 1,
+    "calibrated_score": 0.9999550761827305,
+    "prediction": 1,
+    "tci": 0.8428811764798683,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.8848485814933792,
+      "entropy": 0.4696216903621176,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 88,
+    "true_label": 1,
+    "calibrated_score": 0.9998542800689606,
+    "prediction": 1,
+    "tci": 0.796790893075259,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9888859011386315,
+      "qsvm": 0.6599273568660378,
+      "entropy": 0.43120570512991757,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 89,
+    "true_label": 1,
+    "calibrated_score": 0.9998164857540381,
+    "prediction": 1,
+    "tci": 0.781772271464902,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5799338594151621,
+      "entropy": 0.3978261969402361,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 90,
+    "true_label": 1,
+    "calibrated_score": 0.9999054001152502,
+    "prediction": 1,
+    "tci": 0.8143698276043527,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7393418082308275,
+      "entropy": 0.4357763836963435,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 91,
+    "true_label": 1,
+    "calibrated_score": 0.9998362705432868,
+    "prediction": 1,
+    "tci": 0.7771693768210477,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9923302967051946,
+      "qsvm": 0.6248723250318332,
+      "entropy": 0.32173224164942354,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 92,
+    "true_label": 1,
+    "calibrated_score": 0.9993222676854734,
+    "prediction": 1,
+    "tci": 0.767319508517998,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.8567782329175464,
+      "qsvm": 0.506477109796968,
+      "entropy": 0.6725604465690429,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 93,
+    "true_label": 0,
+    "calibrated_score": 0.000248175164043204,
+    "prediction": 0,
+    "tci": 0.7934715555843158,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9814779782573205,
+      "qsvm": 0.6277267991560246,
+      "entropy": 0.4654792880348446,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 94,
+    "true_label": 1,
+    "calibrated_score": 0.9999240725056269,
+    "prediction": 1,
+    "tci": 0.8243655989727955,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7851156016353957,
+      "entropy": 0.45442978639613923,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 95,
+    "true_label": 1,
+    "calibrated_score": 0.9999269681426443,
+    "prediction": 1,
+    "tci": 0.824108818451792,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7929352644418728,
+      "entropy": 0.44036467568274756,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 96,
+    "true_label": 1,
+    "calibrated_score": 0.9996778991980005,
+    "prediction": 1,
+    "tci": 0.779914982217951,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9906633500677398,
+      "qsvm": 0.4237841216912517,
+      "entropy": 0.5849523920062948,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 97,
+    "true_label": 0,
+    "calibrated_score": 0.00026043566199101257,
+    "prediction": 0,
+    "tci": 0.8009136098908745,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9670733072246686,
+      "qsvm": 0.6422000811797763,
+      "entropy": 0.5334010422875167,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 98,
+    "true_label": 1,
+    "calibrated_score": 0.9982166494217191,
+    "prediction": 1,
+    "tci": 0.7221091464795162,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.7424047615295444,
+      "qsvm": 0.46542669359401323,
+      "entropy": 0.6529737243378193,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 99,
+    "true_label": 1,
+    "calibrated_score": 0.9999036993755399,
+    "prediction": 1,
+    "tci": 0.8111456331978947,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7355075619805274,
+      "entropy": 0.4142433698913582,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 100,
+    "true_label": 1,
+    "calibrated_score": 0.9998052217324687,
+    "prediction": 1,
+    "tci": 0.7868867233723025,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5725489978898135,
+      "entropy": 0.45495388632090245,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 101,
+    "true_label": 1,
+    "calibrated_score": 0.9997881108516468,
+    "prediction": 1,
+    "tci": 0.7767103026816183,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5391581644757444,
+      "entropy": 0.4129250984716359,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 102,
+    "true_label": 1,
+    "calibrated_score": 0.9999055029877564,
+    "prediction": 1,
+    "tci": 0.8171801707944926,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7395752917395259,
+      "entropy": 0.4591244289937877,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 103,
+    "true_label": 0,
+    "calibrated_score": 0.00017358315142952145,
+    "prediction": 0,
+    "tci": 0.8195207538095408,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9992525190731987,
+      "qsvm": 0.6825953943960665,
+      "entropy": 0.5567959997967704,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 104,
+    "true_label": 1,
+    "calibrated_score": 0.9998315530962404,
+    "prediction": 1,
+    "tci": 0.7915399191297552,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.6114818570693084,
+      "entropy": 0.4399282044353927,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 105,
+    "true_label": 0,
+    "calibrated_score": 0.0005720865812461706,
+    "prediction": 0,
+    "tci": 0.7459133734041673,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9881446449239872,
+      "qsvm": 0.33664488055614405,
+      "entropy": 0.46813169017365847,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 106,
+    "true_label": 1,
+    "calibrated_score": 0.9993578205879365,
+    "prediction": 1,
+    "tci": 0.7675756266548056,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.8695609590886859,
+      "qsvm": 0.4936968251554121,
+      "entropy": 0.6657575200532696,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 107,
+    "true_label": 1,
+    "calibrated_score": 0.9961678840526232,
+    "prediction": 1,
+    "tci": 0.674882095729019,
+    "d_score": 0.0,
+    "verdict": "UNCERTAIN",
+    "gates": {
+      "rf": 0.6820130915415947,
+      "qsvm": 0.3383318625528117,
+      "entropy": 0.6477537159923282,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 108,
+    "true_label": 0,
+    "calibrated_score": 0.00025417201559691524,
+    "prediction": 0,
+    "tci": 0.7936239334211306,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9969202550099675,
+      "qsvm": 0.5919037450288248,
+      "entropy": 0.47708372348820083,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 109,
+    "true_label": 1,
+    "calibrated_score": 0.9997390356007794,
+    "prediction": 1,
+    "tci": 0.7596490631930694,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9728828957752875,
+      "qsvm": 0.5366414520658355,
+      "entropy": 0.3616546673353775,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 110,
+    "true_label": 1,
+    "calibrated_score": 0.999769953382843,
+    "prediction": 1,
+    "tci": 0.7667350585620379,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9677771554460253,
+      "qsvm": 0.5830519833853721,
+      "entropy": 0.362262127528772,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 111,
+    "true_label": 1,
+    "calibrated_score": 0.9988744116370118,
+    "prediction": 1,
+    "tci": 0.7410682115301257,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9656625098728149,
+      "qsvm": 0.3990430432958701,
+      "entropy": 0.42254867490973247,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 112,
+    "true_label": 1,
+    "calibrated_score": 0.9998263710039943,
+    "prediction": 1,
+    "tci": 0.7870702070079373,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5948927923886783,
+      "entropy": 0.4176058559980344,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 113,
+    "true_label": 1,
+    "calibrated_score": 0.9998728843620577,
+    "prediction": 1,
+    "tci": 0.8038303754137948,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6729511710667976,
+      "entropy": 0.4427938354571072,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 114,
+    "true_label": 1,
+    "calibrated_score": 0.9998252577242174,
+    "prediction": 1,
+    "tci": 0.7883091511413248,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.6018843144770779,
+      "entropy": 0.42825078848205395,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 115,
+    "true_label": 1,
+    "calibrated_score": 0.9998909962163584,
+    "prediction": 1,
+    "tci": 0.8127539895155099,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.708270757245633,
+      "entropy": 0.46633075490381054,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 116,
+    "true_label": 0,
+    "calibrated_score": 0.0002256066070641696,
+    "prediction": 0,
+    "tci": 0.7796703197849116,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.8572212829663199,
+      "qsvm": 0.8455066324799014,
+      "entropy": 0.30396944237340645,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 117,
+    "true_label": 1,
+    "calibrated_score": 0.999937683185113,
+    "prediction": 1,
+    "tci": 0.8311913996980174,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.8240748344202982,
+      "entropy": 0.45627918908466364,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 118,
+    "true_label": 1,
+    "calibrated_score": 0.9998685374989353,
+    "prediction": 1,
+    "tci": 0.7999503029240441,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6649750582851431,
+      "entropy": 0.4229769777413008,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 119,
+    "true_label": 1,
+    "calibrated_score": 0.9998211533787803,
+    "prediction": 1,
+    "tci": 0.7860471651553401,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5869415273786008,
+      "entropy": 0.4202711803345685,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 120,
+    "true_label": 1,
+    "calibrated_score": 0.9998671756169701,
+    "prediction": 1,
+    "tci": 0.8022693582545877,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9944438221126919,
+      "qsvm": 0.6722456720296581,
+      "entropy": 0.44433405088071165,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 121,
+    "true_label": 1,
+    "calibrated_score": 0.9998243923328622,
+    "prediction": 1,
+    "tci": 0.7922018828552047,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5918622945771236,
+      "entropy": 0.4595582506322744,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 122,
+    "true_label": 1,
+    "calibrated_score": 0.9998113386673574,
+    "prediction": 1,
+    "tci": 0.7846461526872104,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5723145337314341,
+      "entropy": 0.4285948650126432,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 123,
+    "true_label": 1,
+    "calibrated_score": 0.9998867337507364,
+    "prediction": 1,
+    "tci": 0.8125657731485515,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.7125077288312139,
+      "entropy": 0.4766830371383987,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 124,
+    "true_label": 1,
+    "calibrated_score": 0.9998389215484755,
+    "prediction": 1,
+    "tci": 0.7914501084163281,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933313414254341,
+      "qsvm": 0.6271406107332079,
+      "entropy": 0.4239578168163769,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 125,
+    "true_label": 1,
+    "calibrated_score": 0.9998373869149939,
+    "prediction": 1,
+    "tci": 0.7907408587765967,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933313414254341,
+      "qsvm": 0.6247366561526717,
+      "entropy": 0.4217833286052521,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 126,
+    "true_label": 0,
+    "calibrated_score": 0.0001425965750742954,
+    "prediction": 0,
+    "tci": 0.8162763557869394,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9992525190731987,
+      "qsvm": 0.7268735980109294,
+      "entropy": 0.4712436567708907,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 127,
+    "true_label": 1,
+    "calibrated_score": 0.9997989989115477,
+    "prediction": 1,
+    "tci": 0.7854858570948473,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5637648858915851,
+      "entropy": 0.45568814588395073,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 128,
+    "true_label": 1,
+    "calibrated_score": 0.9997956533573825,
+    "prediction": 1,
+    "tci": 0.7787528181781624,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.54972326513146,
+      "entropy": 0.414344708602939,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 129,
+    "true_label": 1,
+    "calibrated_score": 0.9998595718933402,
+    "prediction": 1,
+    "tci": 0.8019286390456534,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6490403747319283,
+      "entropy": 0.4598538132090579,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 130,
+    "true_label": 1,
+    "calibrated_score": 0.9998228255075355,
+    "prediction": 1,
+    "tci": 0.7849660027241125,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933313414254341,
+      "qsvm": 0.6025583885179705,
+      "entropy": 0.40781795375565383,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 131,
+    "true_label": 1,
+    "calibrated_score": 0.9998275815197238,
+    "prediction": 1,
+    "tci": 0.7910474931623798,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5967561841362551,
+      "entropy": 0.44479418883106075,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 132,
+    "true_label": 1,
+    "calibrated_score": 0.9999199588871454,
+    "prediction": 1,
+    "tci": 0.8186982858970269,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7743786019182721,
+      "entropy": 0.4209692255633251,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 133,
+    "true_label": 1,
+    "calibrated_score": 0.9999241805698706,
+    "prediction": 1,
+    "tci": 0.8243386696539425,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7854034060404688,
+      "entropy": 0.45376204015232807,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 134,
+    "true_label": 1,
+    "calibrated_score": 0.9997956248284219,
+    "prediction": 1,
+    "tci": 0.7842420699452659,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5590591885257256,
+      "entropy": 0.4525389743151898,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 135,
+    "true_label": 1,
+    "calibrated_score": 0.9998176786949591,
+    "prediction": 1,
+    "tci": 0.7907576306055313,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9888856521501721,
+      "qsvm": 0.6036426880988444,
+      "entropy": 0.45948910567178736,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 136,
+    "true_label": 1,
+    "calibrated_score": 0.9998452122553406,
+    "prediction": 1,
+    "tci": 0.7969277518017843,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6247830397353378,
+      "entropy": 0.4530641554202853,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 137,
+    "true_label": 1,
+    "calibrated_score": 0.9999168635550918,
+    "prediction": 1,
+    "tci": 0.8221403374528629,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7665642530854676,
+      "entropy": 0.4624581437001301,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 138,
+    "true_label": 1,
+    "calibrated_score": 0.9998119154239357,
+    "prediction": 1,
+    "tci": 0.7850157873176788,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5731628935892923,
+      "entropy": 0.4302231115761625,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 139,
+    "true_label": 1,
+    "calibrated_score": 0.9998613953439326,
+    "prediction": 1,
+    "tci": 0.7863362605174258,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.998332492855942,
+      "qsvm": 0.6552106640388745,
+      "entropy": 0.333964429144553,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 140,
+    "true_label": 0,
+    "calibrated_score": 0.00014890805445677658,
+    "prediction": 0,
+    "tci": 0.8160169931241064,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9992525190731987,
+      "qsvm": 0.7173561121857057,
+      "entropy": 0.4823214459918345,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 141,
+    "true_label": 1,
+    "calibrated_score": 0.9998451867604988,
+    "prediction": 1,
+    "tci": 0.7974411751298915,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6247412072295744,
+      "entropy": 0.4570293271767854,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 142,
+    "true_label": 0,
+    "calibrated_score": 0.0002893320398285373,
+    "prediction": 0,
+    "tci": 0.7621296942282522,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9269493186419737,
+      "qsvm": 0.6876438706934224,
+      "entropy": 0.27612671972504177,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 143,
+    "true_label": 0,
+    "calibrated_score": 0.00013562917700242038,
+    "prediction": 0,
+    "tci": 0.825590463951293,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9992525190731987,
+      "qsvm": 0.7377290164939302,
+      "entropy": 0.5341650439581058,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 144,
+    "true_label": 1,
+    "calibrated_score": 0.9997687815932013,
+    "prediction": 1,
+    "tci": 0.7704412344100806,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933333333333334,
+      "qsvm": 0.5278001101186732,
+      "entropy": 0.39874085245514906,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 145,
+    "true_label": 1,
+    "calibrated_score": 0.9998307361370102,
+    "prediction": 1,
+    "tci": 0.7908599638829656,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6016466333898792,
+      "entropy": 0.43714092335556015,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 146,
+    "true_label": 1,
+    "calibrated_score": 0.9998704701735801,
+    "prediction": 1,
+    "tci": 0.8020905884180924,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6685000078452602,
+      "entropy": 0.43506572622929385,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 147,
+    "true_label": 1,
+    "calibrated_score": 0.9998728843620577,
+    "prediction": 1,
+    "tci": 0.803832548105832,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6729511710667976,
+      "entropy": 0.44281108241591244,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 148,
+    "true_label": 1,
+    "calibrated_score": 0.9998221935885466,
+    "prediction": 1,
+    "tci": 0.7899161813744624,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5885165516631335,
+      "entropy": 0.44685139232825843,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 149,
+    "true_label": 1,
+    "calibrated_score": 0.9998178633377824,
+    "prediction": 1,
+    "tci": 0.7874586824324905,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5819920944455551,
+      "entropy": 0.4369763322183264,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 150,
+    "true_label": 1,
+    "calibrated_score": 0.9998201455881435,
+    "prediction": 1,
+    "tci": 0.7860435512447294,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5854202943364233,
+      "entropy": 0.42219392199991185,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 151,
+    "true_label": 1,
+    "calibrated_score": 0.9998142835989315,
+    "prediction": 1,
+    "tci": 0.7860263815223096,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5766604902058239,
+      "entropy": 0.4332007275261563,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 152,
+    "true_label": 1,
+    "calibrated_score": 0.9998232439534185,
+    "prediction": 1,
+    "tci": 0.787225412636808,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.590112024728881,
+      "entropy": 0.42491490232342316,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 153,
+    "true_label": 1,
+    "calibrated_score": 0.999853936610963,
+    "prediction": 1,
+    "tci": 0.8178303951380808,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.8858976193556836,
+      "qsvm": 0.8219480658671412,
+      "entropy": 0.5805891106509263,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 154,
+    "true_label": 1,
+    "calibrated_score": 0.9998197980689828,
+    "prediction": 1,
+    "tci": 0.7862330988260773,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9855511983686598,
+      "qsvm": 0.6131013575663526,
+      "entropy": 0.42159034314733673,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 155,
+    "true_label": 1,
+    "calibrated_score": 0.9998160520139895,
+    "prediction": 1,
+    "tci": 0.7849591819463428,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.5947836291299332,
+      "entropy": 0.4204929029193443,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 156,
+    "true_label": 1,
+    "calibrated_score": 0.9997985504048147,
+    "prediction": 1,
+    "tci": 0.7825375990885713,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5538299369105717,
+      "entropy": 0.4364076594018173,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 157,
+    "true_label": 1,
+    "calibrated_score": 0.9998480466104629,
+    "prediction": 1,
+    "tci": 0.7999034249837427,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6294595410638667,
+      "entropy": 0.4697352713155474,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 158,
+    "true_label": 1,
+    "calibrated_score": 0.9998176786949591,
+    "prediction": 1,
+    "tci": 0.7907576306055313,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9888856521501721,
+      "qsvm": 0.6036426880988444,
+      "entropy": 0.45948910567178736,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 159,
+    "true_label": 1,
+    "calibrated_score": 0.9997860892612616,
+    "prediction": 1,
+    "tci": 0.7676293845739096,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.536355912116985,
+      "entropy": 0.3519913817919515,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 160,
+    "true_label": 1,
+    "calibrated_score": 0.9999448828124211,
+    "prediction": 1,
+    "tci": 0.8320284562215698,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.8473846192150253,
+      "entropy": 0.427051462473782,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 161,
+    "true_label": 1,
+    "calibrated_score": 0.9998201271490973,
+    "prediction": 1,
+    "tci": 0.7895018928191495,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5853925038318623,
+      "entropy": 0.4477322005353425,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 162,
+    "true_label": 1,
+    "calibrated_score": 0.9999031407183429,
+    "prediction": 1,
+    "tci": 0.8160677765376757,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7342585482134998,
+      "entropy": 0.45735286923617746,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 163,
+    "true_label": 1,
+    "calibrated_score": 0.9995543766134201,
+    "prediction": 1,
+    "tci": 0.7349014759813031,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9710223383767831,
+      "qsvm": 0.34996757290654623,
+      "entropy": 0.42693494518285197,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 164,
+    "true_label": 1,
+    "calibrated_score": 0.9998319913073795,
+    "prediction": 1,
+    "tci": 0.7939137791482364,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6036066491080009,
+      "entropy": 0.45747620537882705,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 165,
+    "true_label": 1,
+    "calibrated_score": 0.9999173894846888,
+    "prediction": 1,
+    "tci": 0.8211308957562635,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7678767979464415,
+      "entropy": 0.45179949202971564,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 166,
+    "true_label": 1,
+    "calibrated_score": 0.9996711826341771,
+    "prediction": 1,
+    "tci": 0.7774337410911645,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.8855381890026743,
+      "qsvm": 0.6472099314156401,
+      "entropy": 0.5252906221659682,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 167,
+    "true_label": 1,
+    "calibrated_score": 0.9999433155618309,
+    "prediction": 1,
+    "tci": 0.8336638054571872,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.8421179983463352,
+      "entropy": 0.45077013163816,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 168,
+    "true_label": 0,
+    "calibrated_score": 0.0001639923860106719,
+    "prediction": 0,
+    "tci": 0.8226345668268096,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922703027147862,
+      "qsvm": 0.7073214746173062,
+      "entropy": 0.5651372658782999,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 169,
+    "true_label": 1,
+    "calibrated_score": 0.9999526285944085,
+    "prediction": 1,
+    "tci": 0.8364425927889516,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.8752835729678072,
+      "entropy": 0.42306894975400144,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 170,
+    "true_label": 1,
+    "calibrated_score": 0.999826238654726,
+    "prediction": 1,
+    "tci": 0.7903200283917184,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5946894979018411,
+      "entropy": 0.4420159174852139,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 171,
+    "true_label": 1,
+    "calibrated_score": 0.9998115666930264,
+    "prediction": 1,
+    "tci": 0.7825777568622078,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5726497799197784,
+      "entropy": 0.41307506672793853,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 172,
+    "true_label": 0,
+    "calibrated_score": 0.00024794053846235726,
+    "prediction": 0,
+    "tci": 0.781955741891192,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9887774262316056,
+      "qsvm": 0.6142240158773116,
+      "entropy": 0.3808365040572868,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 173,
+    "true_label": 1,
+    "calibrated_score": 0.9998132519749268,
+    "prediction": 1,
+    "tci": 0.7833201001244728,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933313414254341,
+      "qsvm": 0.5885355109144697,
+      "entropy": 0.413927363332163,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 174,
+    "true_label": 0,
+    "calibrated_score": 0.0002316365392335488,
+    "prediction": 0,
+    "tci": 0.7791952097309549,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9370363344277228,
+      "qsvm": 0.7210126151329939,
+      "entropy": 0.3283395872563412,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 175,
+    "true_label": 1,
+    "calibrated_score": 0.9997759094811535,
+    "prediction": 1,
+    "tci": 0.7771075662300534,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9855534392650178,
+      "qsvm": 0.5538097061783005,
+      "entropy": 0.4313821255685208,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 176,
+    "true_label": 1,
+    "calibrated_score": 0.9998378342283085,
+    "prediction": 1,
+    "tci": 0.7914878078577109,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6128419457937637,
+      "entropy": 0.42736026034203184,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 177,
+    "true_label": 1,
+    "calibrated_score": 0.9998997706585288,
+    "prediction": 1,
+    "tci": 0.8142303040884143,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7268295794602637,
+      "entropy": 0.4525478049539857,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 178,
+    "true_label": 1,
+    "calibrated_score": 0.9999027740138677,
+    "prediction": 1,
+    "tci": 0.8159797188439304,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7334414526286976,
+      "entropy": 0.45777690219878114,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 179,
+    "true_label": 1,
+    "calibrated_score": 0.9998142835989315,
+    "prediction": 1,
+    "tci": 0.7860263815223096,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5766604902058239,
+      "entropy": 0.4332007275261563,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 180,
+    "true_label": 1,
+    "calibrated_score": 0.9999487911694235,
+    "prediction": 1,
+    "tci": 0.8373939092530205,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.8715476869503573,
+      "entropy": 0.4564412595003091,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 181,
+    "true_label": 1,
+    "calibrated_score": 0.9999067289629433,
+    "prediction": 1,
+    "tci": 0.8167846839218977,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.7545259855530455,
+      "entropy": 0.45214896593241827,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 182,
+    "true_label": 1,
+    "calibrated_score": 0.9998190885969439,
+    "prediction": 1,
+    "tci": 0.7854265742305684,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9916647060235622,
+      "qsvm": 0.600291175648554,
+      "entropy": 0.41810132309215975,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 183,
+    "true_label": 1,
+    "calibrated_score": 0.9998197015051183,
+    "prediction": 1,
+    "tci": 0.8066725361394391,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.600106467009038,
+      "entropy": 0.5737754421209281,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 184,
+    "true_label": 1,
+    "calibrated_score": 0.9998494110583321,
+    "prediction": 1,
+    "tci": 0.7958464610161267,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6317294097741177,
+      "entropy": 0.4357221154950867,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 185,
+    "true_label": 1,
+    "calibrated_score": 0.9998170303452232,
+    "prediction": 1,
+    "tci": 0.7850040235369158,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5807465468677787,
+      "entropy": 0.4205162708336048,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 186,
+    "true_label": 1,
+    "calibrated_score": 0.9998829949336839,
+    "prediction": 1,
+    "tci": 0.824076310970517,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933310924369747,
+      "qsvm": 0.7033934506057096,
+      "entropy": 0.5795812688769145,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 187,
+    "true_label": 1,
+    "calibrated_score": 0.9998180476656043,
+    "prediction": 1,
+    "tci": 0.7823796962088716,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5822681223613478,
+      "entropy": 0.3992681650899459,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 188,
+    "true_label": 1,
+    "calibrated_score": 0.999795624881801,
+    "prediction": 1,
+    "tci": 0.7842420826496286,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5590592626659929,
+      "entropy": 0.4525389743151898,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 189,
+    "true_label": 1,
+    "calibrated_score": 0.9988506586714904,
+    "prediction": 1,
+    "tci": 0.7499343095108091,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.7591874700317647,
+      "qsvm": 0.5630092299463426,
+      "entropy": 0.6694535471018561,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 190,
+    "true_label": 0,
+    "calibrated_score": 0.00012540898936677148,
+    "prediction": 0,
+    "tci": 0.8306929734668744,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9959203061880446,
+      "qsvm": 0.7595399067998138,
+      "entropy": 0.5549474862895979,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 191,
+    "true_label": 0,
+    "calibrated_score": 0.00028008085446067495,
+    "prediction": 0,
+    "tci": 0.7995612814182419,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9561800722828743,
+      "qsvm": 0.6440590034263437,
+      "entropy": 0.5437757519004655,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 192,
+    "true_label": 1,
+    "calibrated_score": 0.9997875175181584,
+    "prediction": 1,
+    "tci": 0.7760074685391931,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.538334461461301,
+      "entropy": 0.4089542164070273,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 193,
+    "true_label": 0,
+    "calibrated_score": 0.00022358268802237212,
+    "prediction": 0,
+    "tci": 0.78966190878423,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9670027158411124,
+      "qsvm": 0.678980133027194,
+      "entropy": 0.4006487009590618,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 194,
+    "true_label": 1,
+    "calibrated_score": 0.9999484781417002,
+    "prediction": 1,
+    "tci": 0.8384377111387834,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9833317151592227,
+      "qsvm": 0.8822965421914427,
+      "entropy": 0.4689132309722681,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 195,
+    "true_label": 0,
+    "calibrated_score": 0.0014456222492447042,
+    "prediction": 0,
+    "tci": 0.82442211849387,
+    "d_score": 0.39456038102524366,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.8867329070090599,
+      "qsvm": 0.23673622861514618,
+      "entropy": 0.5299682902093834,
+      "mdl": 0.9180508284909302
+    }
+  },
+  {
+    "index": 196,
+    "true_label": 0,
+    "calibrated_score": 0.00039711598320650153,
+    "prediction": 0,
+    "tci": 0.7565163195639926,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9449374973432414,
+      "qsvm": 0.5746919954855645,
+      "entropy": 0.35574405642695783,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 197,
+    "true_label": 0,
+    "calibrated_score": 0.00023658823098802036,
+    "prediction": 0,
+    "tci": 0.7866114582016305,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9959203061880446,
+      "qsvm": 0.6127343291467852,
+      "entropy": 0.4005136802805905,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 198,
+    "true_label": 1,
+    "calibrated_score": 0.9997370034266472,
+    "prediction": 1,
+    "tci": 0.7595476290279641,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9762173495568001,
+      "qsvm": 0.5269953955332203,
+      "entropy": 0.36535155928933305,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 199,
+    "true_label": 1,
+    "calibrated_score": 0.9998848014995,
+    "prediction": 1,
+    "tci": 0.8245318363648263,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933310924369747,
+      "qsvm": 0.7068951503249538,
+      "entropy": 0.5787950136467446,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 200,
+    "true_label": 1,
+    "calibrated_score": 0.999773457285081,
+    "prediction": 1,
+    "tci": 0.7713601481417725,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9949991598050747,
+      "qsvm": 0.530246767933219,
+      "entropy": 0.3981579710645133,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 201,
+    "true_label": 1,
+    "calibrated_score": 0.999868242317898,
+    "prediction": 1,
+    "tci": 0.8028962985249583,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6644396214071876,
+      "entropy": 0.4469218196226685,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 202,
+    "true_label": 1,
+    "calibrated_score": 0.9998205739668272,
+    "prediction": 1,
+    "tci": 0.7879855005593016,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5860663587721561,
+      "entropy": 0.43569486475443275,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 203,
+    "true_label": 0,
+    "calibrated_score": 0.0001608796728083002,
+    "prediction": 0,
+    "tci": 0.820380509096268,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9861936079355119,
+      "qsvm": 0.7215235993468971,
+      "entropy": 0.5412284532124265,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 204,
+    "true_label": 1,
+    "calibrated_score": 0.9997885836407296,
+    "prediction": 1,
+    "tci": 0.7652800909621854,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9689908634887081,
+      "qsvm": 0.6032548950104293,
+      "entropy": 0.32172870429054873,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 205,
+    "true_label": 1,
+    "calibrated_score": 0.9997809105490193,
+    "prediction": 1,
+    "tci": 0.7979785870324848,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.5461489310315413,
+      "entropy": 0.5728567229240494,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 206,
+    "true_label": 0,
+    "calibrated_score": 0.00022111933381259563,
+    "prediction": 0,
+    "tci": 0.7770876207577753,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.8344452166200045,
+      "qsvm": 0.8800686000204527,
+      "entropy": 0.2695618447015106,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 207,
+    "true_label": 0,
+    "calibrated_score": 0.00022317767579736915,
+    "prediction": 0,
+    "tci": 0.8011792084628777,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9991414813898315,
+      "qsvm": 0.6216364545048044,
+      "entropy": 0.49137593916616423,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 208,
+    "true_label": 1,
+    "calibrated_score": 0.9998113161621074,
+    "prediction": 1,
+    "tci": 0.8089653065060587,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.8772116715879641,
+      "qsvm": 0.7839967081459918,
+      "entropy": 0.5819137563095927,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 209,
+    "true_label": 1,
+    "calibrated_score": 0.9994088029109778,
+    "prediction": 1,
+    "tci": 0.7210159159028247,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.18717571364873464,
+      "entropy": 0.4449972692996063,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 210,
+    "true_label": 0,
+    "calibrated_score": 0.000171234719770399,
+    "prediction": 0,
+    "tci": 0.804733589960271,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9938582315162022,
+      "qsvm": 0.6948916850250844,
+      "entropy": 0.4341136949718365,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 211,
+    "true_label": 0,
+    "calibrated_score": 0.0002962945086345038,
+    "prediction": 0,
+    "tci": 0.7763680021643841,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9936990798081805,
+      "qsvm": 0.5560660999487488,
+      "entropy": 0.40428004219686525,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 212,
+    "true_label": 1,
+    "calibrated_score": 0.9999027740138677,
+    "prediction": 1,
+    "tci": 0.8159797188439304,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7334414526286976,
+      "entropy": 0.45777690219878114,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 213,
+    "true_label": 0,
+    "calibrated_score": 0.0002503049630478097,
+    "prediction": 0,
+    "tci": 0.8016986280299394,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9799630722006102,
+      "qsvm": 0.6283878371592716,
+      "entropy": 0.5290405980682626,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 214,
+    "true_label": 0,
+    "calibrated_score": 0.00018521302812242956,
+    "prediction": 0,
+    "tci": 0.8183214130942638,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9647494281105847,
+      "qsvm": 0.7252866007012001,
+      "entropy": 0.5646580924436632,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 215,
+    "true_label": 1,
+    "calibrated_score": 0.999887575354703,
+    "prediction": 1,
+    "tci": 0.8221301550456119,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.978123202699261,
+      "qsvm": 0.7368855434784155,
+      "entropy": 0.5520875066641171,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 216,
+    "true_label": 1,
+    "calibrated_score": 0.9998186641705058,
+    "prediction": 1,
+    "tci": 0.7795459864527114,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5831924110874086,
+      "entropy": 0.3772108615898156,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 217,
+    "true_label": 1,
+    "calibrated_score": 0.9998115666930264,
+    "prediction": 1,
+    "tci": 0.7825777568622078,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5726497799197784,
+      "entropy": 0.41307506672793853,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 218,
+    "true_label": 1,
+    "calibrated_score": 0.9982672862340765,
+    "prediction": 1,
+    "tci": 0.7300508299526189,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.87131555784839,
+      "qsvm": 0.2751066477783293,
+      "entropy": 0.6669326906442623,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 219,
+    "true_label": 0,
+    "calibrated_score": 0.00011727783179579288,
+    "prediction": 0,
+    "tci": 0.831752571678559,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9826443523543734,
+      "qsvm": 0.7932350708638723,
+      "entropy": 0.5455696806437715,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 220,
+    "true_label": 1,
+    "calibrated_score": 0.9996936801283433,
+    "prediction": 1,
+    "tci": 0.7559075801284365,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.983248918009084,
+      "qsvm": 0.46138679105950337,
+      "entropy": 0.4045990287561727,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 221,
+    "true_label": 1,
+    "calibrated_score": 0.9998261862846355,
+    "prediction": 1,
+    "tci": 0.7902712501350981,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.594609078632347,
+      "entropy": 0.4417559029029454,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 222,
+    "true_label": 1,
+    "calibrated_score": 0.9997883306205818,
+    "prediction": 1,
+    "tci": 0.7679203893494916,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9966655462184872,
+      "qsvm": 0.5466430581152535,
+      "entropy": 0.3489968161087269,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 223,
+    "true_label": 1,
+    "calibrated_score": 0.9998488918047534,
+    "prediction": 1,
+    "tci": 0.7980541664721338,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6308641387608335,
+      "entropy": 0.4537657901422086,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 224,
+    "true_label": 1,
+    "calibrated_score": 0.999822452034676,
+    "prediction": 1,
+    "tci": 0.7876505349093194,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5889086482029804,
+      "entropy": 0.4296007349808306,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 225,
+    "true_label": 1,
+    "calibrated_score": 0.9999624996956712,
+    "prediction": 1,
+    "tci": 0.8372575270006988,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9487673966395744,
+      "qsvm": 0.9798396347666608,
+      "entropy": 0.361176677731249,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 226,
+    "true_label": 1,
+    "calibrated_score": 0.9991252519829652,
+    "prediction": 1,
+    "tci": 0.7633101392903388,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.7458523936953163,
+      "qsvm": 0.6594572876867816,
+      "entropy": 0.6555536814392493,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 227,
+    "true_label": 1,
+    "calibrated_score": 0.9998073680964493,
+    "prediction": 1,
+    "tci": 0.7821101443375316,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5665098840621723,
+      "entropy": 0.41746322206066155,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 228,
+    "true_label": 1,
+    "calibrated_score": 0.9998329474537474,
+    "prediction": 1,
+    "tci": 0.803158626564657,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9966655462184872,
+      "qsvm": 0.6115146163336955,
+      "entropy": 0.5243974230833737,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 229,
+    "true_label": 0,
+    "calibrated_score": 0.00018196362715220722,
+    "prediction": 0,
+    "tci": 0.8169289740782677,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9944915290946503,
+      "qsvm": 0.6797833731176418,
+      "entropy": 0.5500302812932442,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 230,
+    "true_label": 1,
+    "calibrated_score": 0.9999193813886825,
+    "prediction": 1,
+    "tci": 0.822618426985845,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7729040638081519,
+      "entropy": 0.45729065989700785,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 231,
+    "true_label": 1,
+    "calibrated_score": 0.9999095593497164,
+    "prediction": 1,
+    "tci": 0.816983812396139,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.7609791102362419,
+      "entropy": 0.44439350092836616,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 232,
+    "true_label": 1,
+    "calibrated_score": 0.9998280998793859,
+    "prediction": 1,
+    "tci": 0.7936783809018855,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9899988795518204,
+      "qsvm": 0.6168156402857708,
+      "entropy": 0.4618103328300725,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 233,
+    "true_label": 1,
+    "calibrated_score": 0.9998214854001966,
+    "prediction": 1,
+    "tci": 0.7895800868631379,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5874437155996747,
+      "entropy": 0.445722694998364,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 234,
+    "true_label": 0,
+    "calibrated_score": 0.0001208779806429357,
+    "prediction": 0,
+    "tci": 0.8373330451440588,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9720343740670843,
+      "qsvm": 0.8027688071891582,
+      "entropy": 0.6022879823257947,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 235,
+    "true_label": 1,
+    "calibrated_score": 0.9999459744003989,
+    "prediction": 1,
+    "tci": 0.8326137776155758,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.8511221320185669,
+      "entropy": 0.4264746503861467,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 236,
+    "true_label": 1,
+    "calibrated_score": 0.9998613953439326,
+    "prediction": 1,
+    "tci": 0.7863362605174258,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.998332492855942,
+      "qsvm": 0.6552106640388745,
+      "entropy": 0.333964429144553,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 237,
+    "true_label": 1,
+    "calibrated_score": 0.9998849749542863,
+    "prediction": 1,
+    "tci": 0.8038229007902591,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6961203225444834,
+      "entropy": 0.41057893745742086,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 238,
+    "true_label": 1,
+    "calibrated_score": 0.999962268650839,
+    "prediction": 1,
+    "tci": 0.8467351095414746,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.9212616701195162,
+      "entropy": 0.45684382379360083,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 239,
+    "true_label": 0,
+    "calibrated_score": 9.572555340652037e-05,
+    "prediction": 0,
+    "tci": 0.8389757450758687,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.998512220862958,
+      "qsvm": 0.8102830757576016,
+      "entropy": 0.5508491754222565,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 240,
+    "true_label": 1,
+    "calibrated_score": 0.9999021910417045,
+    "prediction": 1,
+    "tci": 0.8155068353672529,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.732146926422859,
+      "entropy": 0.45565681149157927,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 241,
+    "true_label": 1,
+    "calibrated_score": 0.9999609500776632,
+    "prediction": 1,
+    "tci": 0.8354562860273831,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9487673966395744,
+      "qsvm": 0.9732603124482465,
+      "entropy": 0.3559407103988937,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 242,
+    "true_label": 1,
+    "calibrated_score": 0.9997916891433932,
+    "prediction": 1,
+    "tci": 0.7774246054560299,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5441482749276327,
+      "entropy": 0.4118058049679152,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 243,
+    "true_label": 1,
+    "calibrated_score": 0.9998327430486071,
+    "prediction": 1,
+    "tci": 0.7915621355493968,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.6133189177091627,
+      "entropy": 0.4377160715286991,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 244,
+    "true_label": 1,
+    "calibrated_score": 0.9998197015191269,
+    "prediction": 1,
+    "tci": 0.8066725394004748,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.6001064875554577,
+      "entropy": 0.5737754421209281,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 245,
+    "true_label": 1,
+    "calibrated_score": 0.9999517984373251,
+    "prediction": 1,
+    "tci": 0.8426840573239985,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.8824973966344587,
+      "entropy": 0.48918304649985433,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 246,
+    "true_label": 0,
+    "calibrated_score": 0.00020746394023217965,
+    "prediction": 0,
+    "tci": 0.7948630816697617,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.990594778792623,
+      "qsvm": 0.6554327128459192,
+      "entropy": 0.41845704789076715,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 247,
+    "true_label": 1,
+    "calibrated_score": 0.9998920447310392,
+    "prediction": 1,
+    "tci": 0.8155970269584634,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.7231241660222015,
+      "entropy": 0.48678915291154956,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 248,
+    "true_label": 1,
+    "calibrated_score": 0.9998334068101783,
+    "prediction": 1,
+    "tci": 0.7936238461663118,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6058269741515611,
+      "entropy": 0.45247712559417463,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 249,
+    "true_label": 0,
+    "calibrated_score": 0.00030266992043117695,
+    "prediction": 0,
+    "tci": 0.7970761917623745,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9873048434292612,
+      "qsvm": 0.5633871239114537,
+      "entropy": 0.5573026032426075,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 250,
+    "true_label": 0,
+    "calibrated_score": 0.0002628459144849807,
+    "prediction": 0,
+    "tci": 0.7947426108087556,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9991320180478718,
+      "qsvm": 0.5783826562337174,
+      "entropy": 0.49689366555904274,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 251,
+    "true_label": 1,
+    "calibrated_score": 0.9998908123777809,
+    "prediction": 1,
+    "tci": 0.8116533828342699,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7078931188518135,
+      "entropy": 0.457840762256565,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 252,
+    "true_label": 0,
+    "calibrated_score": 0.00011727783179579288,
+    "prediction": 0,
+    "tci": 0.831752571678559,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9826443523543734,
+      "qsvm": 0.7932350708638723,
+      "entropy": 0.5455696806437715,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 253,
+    "true_label": 1,
+    "calibrated_score": 0.9998469304880923,
+    "prediction": 1,
+    "tci": 0.7974452892698463,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6276118514697366,
+      "entropy": 0.4533404061346296,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 254,
+    "true_label": 1,
+    "calibrated_score": 0.9998998060284059,
+    "prediction": 1,
+    "tci": 0.8142533122094024,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7269066319886092,
+      "entropy": 0.4526302127950787,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 255,
+    "true_label": 1,
+    "calibrated_score": 0.9998287297686679,
+    "prediction": 1,
+    "tci": 0.7892170492676084,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.598530438373142,
+      "entropy": 0.42888822597623505,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 256,
+    "true_label": 0,
+    "calibrated_score": 0.0001741475699615953,
+    "prediction": 0,
+    "tci": 0.8121009521267181,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955240579879436,
+      "qsvm": 0.6882043894152693,
+      "entropy": 0.4983937922766886,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 257,
+    "true_label": 1,
+    "calibrated_score": 0.999913451777326,
+    "prediction": 1,
+    "tci": 0.8181187223690417,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7581932510021111,
+      "entropy": 0.4401094394057597,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 258,
+    "true_label": 1,
+    "calibrated_score": 0.9998223665155097,
+    "prediction": 1,
+    "tci": 0.7857370063783381,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.588778870232092,
+      "entropy": 0.41561678389580736,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 259,
+    "true_label": 1,
+    "calibrated_score": 0.9998703617238975,
+    "prediction": 1,
+    "tci": 0.8023171468046464,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6683013167541094,
+      "entropy": 0.4371272971416073,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 260,
+    "true_label": 1,
+    "calibrated_score": 0.9998765665659236,
+    "prediction": 1,
+    "tci": 0.8022867958633091,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.679847373107578,
+      "entropy": 0.42103278816114065,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 261,
+    "true_label": 1,
+    "calibrated_score": 0.9996681622244279,
+    "prediction": 1,
+    "tci": 0.7529415478052534,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9839989242974321,
+      "qsvm": 0.43095744541549436,
+      "entropy": 0.41889875872874677,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 262,
+    "true_label": 1,
+    "calibrated_score": 0.999902871958329,
+    "prediction": 1,
+    "tci": 0.8147347827556438,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7336594807096752,
+      "entropy": 0.4470312971131157,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 263,
+    "true_label": 1,
+    "calibrated_score": 0.9999020778128079,
+    "prediction": 1,
+    "tci": 0.8162324136594873,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7318961250860044,
+      "entropy": 0.4620855895503036,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 264,
+    "true_label": 1,
+    "calibrated_score": 0.9997963384637726,
+    "prediction": 1,
+    "tci": 0.772392766389382,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.998332492855942,
+      "qsvm": 0.5542211617842102,
+      "entropy": 0.36704246178455663,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 265,
+    "true_label": 0,
+    "calibrated_score": 0.00015795070766444635,
+    "prediction": 0,
+    "tci": 0.7869816830967211,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.8648260666792422,
+      "qsvm": 0.900138863854759,
+      "entropy": 0.24619234841283835,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 266,
+    "true_label": 1,
+    "calibrated_score": 0.999895942850318,
+    "prediction": 1,
+    "tci": 0.8295226113203036,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.900341939194307,
+      "qsvm": 0.8657023108092877,
+      "entropy": 0.5844853772499684,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 267,
+    "true_label": 1,
+    "calibrated_score": 0.9998197801528665,
+    "prediction": 1,
+    "tci": 0.789440515799323,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5848698113839306,
+      "entropy": 0.44793765199210095,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 268,
+    "true_label": 0,
+    "calibrated_score": 0.00015196641633797792,
+    "prediction": 0,
+    "tci": 0.8127573800129426,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9853044402125684,
+      "qsvm": 0.7353675264031839,
+      "entropy": 0.46188526564182525,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 269,
+    "true_label": 1,
+    "calibrated_score": 0.999853936610963,
+    "prediction": 1,
+    "tci": 0.8178303951380808,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.8858976193556836,
+      "qsvm": 0.8219480658671412,
+      "entropy": 0.5805891106509263,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 270,
+    "true_label": 1,
+    "calibrated_score": 0.9998282054991404,
+    "prediction": 1,
+    "tci": 0.7920875592408794,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5977195289992071,
+      "entropy": 0.4513138057907005,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 271,
+    "true_label": 1,
+    "calibrated_score": 0.9998296823484613,
+    "prediction": 1,
+    "tci": 0.7906970432871842,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6000073801327835,
+      "entropy": 0.43802817354955925,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 272,
+    "true_label": 0,
+    "calibrated_score": 0.00021793941148562875,
+    "prediction": 0,
+    "tci": 0.779007664859845,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.8466675634480478,
+      "qsvm": 0.8663348177191936,
+      "entropy": 0.2840179379528915,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 273,
+    "true_label": 0,
+    "calibrated_score": 0.00014615932064253185,
+    "prediction": 0,
+    "tci": 0.825117518291909,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9939199029713518,
+      "qsvm": 0.7300572558626551,
+      "entropy": 0.5521214560064274,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 274,
+    "true_label": 1,
+    "calibrated_score": 0.9996124307616644,
+    "prediction": 1,
+    "tci": 0.7412956990019894,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9822167445871473,
+      "qsvm": 0.37497960368852545,
+      "entropy": 0.4127298837981422,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 275,
+    "true_label": 1,
+    "calibrated_score": 0.999520299618991,
+    "prediction": 1,
+    "tci": 0.7150464407112243,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9916647060235622,
+      "qsvm": 0.22541188042559587,
+      "entropy": 0.39368003461579565,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 276,
+    "true_label": 1,
+    "calibrated_score": 0.9997936110153363,
+    "prediction": 1,
+    "tci": 0.7789148101346239,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9855511983686598,
+      "qsvm": 0.5769126815314524,
+      "entropy": 0.415146927048412,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 277,
+    "true_label": 1,
+    "calibrated_score": 0.9998227033203423,
+    "prediction": 1,
+    "tci": 0.7887966113322468,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5892901782441847,
+      "entropy": 0.43759144934216865,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 278,
+    "true_label": 1,
+    "calibrated_score": 0.9998245551660143,
+    "prediction": 1,
+    "tci": 0.7852703931593141,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.600825454008251,
+      "entropy": 0.4070755418620468,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 279,
+    "true_label": 0,
+    "calibrated_score": 0.0007075643780224057,
+    "prediction": 0,
+    "tci": 0.7125907714368345,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9975866926014573,
+      "qsvm": 0.1541495727707023,
+      "entropy": 0.4354948551988526,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 280,
+    "true_label": 0,
+    "calibrated_score": 0.00010579736022381751,
+    "prediction": 0,
+    "tci": 0.8346202540465973,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9865129380944444,
+      "qsvm": 0.808003859826714,
+      "entropy": 0.5412078928011105,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 281,
+    "true_label": 1,
+    "calibrated_score": 0.9998243923115729,
+    "prediction": 1,
+    "tci": 0.7922018773472205,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5918622620717829,
+      "entropy": 0.4595582506322744,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 282,
+    "true_label": 1,
+    "calibrated_score": 0.999952364682651,
+    "prediction": 1,
+    "tci": 0.8394614043253271,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.8846195745086688,
+      "entropy": 0.45472886606000573,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 283,
+    "true_label": 1,
+    "calibrated_score": 0.9998253193954086,
+    "prediction": 1,
+    "tci": 0.7865342026512783,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.6019773761999332,
+      "entropy": 0.41495098420898646,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 284,
+    "true_label": 1,
+    "calibrated_score": 0.999819872779123,
+    "prediction": 1,
+    "tci": 0.7846890651224323,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5850092846811663,
+      "entropy": 0.4127345670810943,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 285,
+    "true_label": 1,
+    "calibrated_score": 0.9998493901502258,
+    "prediction": 1,
+    "tci": 0.7960463786690544,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6316945343694461,
+      "entropy": 0.43729987200222675,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 286,
+    "true_label": 1,
+    "calibrated_score": 0.999656177919607,
+    "prediction": 1,
+    "tci": 0.7760333220709335,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9873288962862272,
+      "qsvm": 0.40825857845634955,
+      "entropy": 0.5828421284026021,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 287,
+    "true_label": 1,
+    "calibrated_score": 0.9996682219287037,
+    "prediction": 1,
+    "tci": 0.7782385299314258,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9899966386554624,
+      "qsvm": 0.4144340407662488,
+      "entropy": 0.5850661858504723,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 288,
+    "true_label": 1,
+    "calibrated_score": 0.9997977595433643,
+    "prediction": 1,
+    "tci": 0.7773384318757766,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933313414254341,
+      "qsvm": 0.566638234303016,
+      "entropy": 0.39865856406794203,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 289,
+    "true_label": 1,
+    "calibrated_score": 0.9998847536000869,
+    "prediction": 1,
+    "tci": 0.8055794990249647,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9731265953085935,
+      "qsvm": 0.7394712558487119,
+      "entropy": 0.42499613579421663,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 290,
+    "true_label": 1,
+    "calibrated_score": 0.9998466202578349,
+    "prediction": 1,
+    "tci": 0.7950733679008576,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6270997102000134,
+      "entropy": 0.43590179867941076,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 291,
+    "true_label": 1,
+    "calibrated_score": 0.9998110994763447,
+    "prediction": 1,
+    "tci": 0.7844540151547964,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.57196309642771,
+      "entropy": 0.4276364020754572,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 292,
+    "true_label": 1,
+    "calibrated_score": 0.9999441872409428,
+    "prediction": 1,
+    "tci": 0.8340288226021833,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.8450330209029184,
+      "entropy": 0.44953938220582934,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 293,
+    "true_label": 1,
+    "calibrated_score": 0.9998488918047534,
+    "prediction": 1,
+    "tci": 0.7980541664721338,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6308641387608335,
+      "entropy": 0.4537657901422086,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 294,
+    "true_label": 1,
+    "calibrated_score": 0.999828997669083,
+    "prediction": 1,
+    "tci": 0.7898076414625189,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5989453445194544,
+      "entropy": 0.43275716864982233,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 295,
+    "true_label": 1,
+    "calibrated_score": 0.9997333331796945,
+    "prediction": 1,
+    "tci": 0.7617317552100329,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9966655462184872,
+      "qsvm": 0.4748750392451566,
+      "entropy": 0.39553042550875545,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 296,
+    "true_label": 1,
+    "calibrated_score": 0.9999409730285063,
+    "prediction": 1,
+    "tci": 0.8324375222218251,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.8344528647283395,
+      "entropy": 0.45150918128293077,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 297,
+    "true_label": 1,
+    "calibrated_score": 0.999788110526261,
+    "prediction": 1,
+    "tci": 0.7766941240679321,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5391577124684892,
+      "entropy": 0.4128106667449674,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 298,
+    "true_label": 1,
+    "calibrated_score": 0.9998314249279101,
+    "prediction": 1,
+    "tci": 0.7909784632926297,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6027212003129648,
+      "entropy": 0.4366455314853727,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 299,
+    "true_label": 1,
+    "calibrated_score": 0.9998073786578574,
+    "prediction": 1,
+    "tci": 0.7805829250036586,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5665252428234585,
+      "entropy": 0.4063514537014095,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 300,
+    "true_label": 1,
+    "calibrated_score": 0.9998151371849765,
+    "prediction": 1,
+    "tci": 0.783695728721537,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5779268620460579,
+      "entropy": 0.4145175502506924,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 301,
+    "true_label": 0,
+    "calibrated_score": 0.0002234081765102331,
+    "prediction": 0,
+    "tci": 0.8124874334348852,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9881445178733477,
+      "qsvm": 0.6417328239555128,
+      "entropy": 0.5763301018788635,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 302,
+    "true_label": 1,
+    "calibrated_score": 0.9998096444451514,
+    "prediction": 1,
+    "tci": 0.7869249955095854,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5788801530996058,
+      "entropy": 0.4473396765022947,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 303,
+    "true_label": 1,
+    "calibrated_score": 0.9998425128340898,
+    "prediction": 1,
+    "tci": 0.8011574391065681,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.991460768836852,
+      "qsvm": 0.6362671617917875,
+      "entropy": 0.4899092119605813,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 304,
+    "true_label": 1,
+    "calibrated_score": 0.9999112117077412,
+    "prediction": 1,
+    "tci": 0.8249309550427636,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9966655462184872,
+      "qsvm": 0.7579876108674664,
+      "entropy": 0.5062962807000247,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 305,
+    "true_label": 1,
+    "calibrated_score": 0.9998477498307964,
+    "prediction": 1,
+    "tci": 0.7955001317535899,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6289674454945514,
+      "entropy": 0.43670766681871065,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 306,
+    "true_label": 1,
+    "calibrated_score": 0.9998117574235988,
+    "prediction": 1,
+    "tci": 0.782542107574903,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5729303551582172,
+      "entropy": 0.4124572507329966,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 307,
+    "true_label": 1,
+    "calibrated_score": 0.9997895505556927,
+    "prediction": 1,
+    "tci": 0.7804532692877966,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9911091194263948,
+      "qsvm": 0.5600420544157707,
+      "entropy": 0.4345046159964803,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 308,
+    "true_label": 1,
+    "calibrated_score": 0.9998964452137119,
+    "prediction": 1,
+    "tci": 0.8128858069542932,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7196683442170182,
+      "entropy": 0.4515090994215319,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 309,
+    "true_label": 1,
+    "calibrated_score": 0.9998720391096849,
+    "prediction": 1,
+    "tci": 0.8032897366593345,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9888859011386315,
+      "qsvm": 0.6904713008593648,
+      "entropy": 0.4402456526449147,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 310,
+    "true_label": 1,
+    "calibrated_score": 0.9997887626980775,
+    "prediction": 1,
+    "tci": 0.7782899933640263,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5400643067318662,
+      "entropy": 0.42303583448601173,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 311,
+    "true_label": 1,
+    "calibrated_score": 0.9998164868246948,
+    "prediction": 1,
+    "tci": 0.7855811355420041,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5799354558930871,
+      "entropy": 0.4257879017220363,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 312,
+    "true_label": 1,
+    "calibrated_score": 0.999809754751863,
+    "prediction": 1,
+    "tci": 0.7837100988730001,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5699915689154468,
+      "entropy": 0.42470181962809317,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 313,
+    "true_label": 1,
+    "calibrated_score": 0.9998704701735801,
+    "prediction": 1,
+    "tci": 0.8020783837086544,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6685000078452602,
+      "entropy": 0.43496921961069307,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 314,
+    "true_label": 1,
+    "calibrated_score": 0.9998695543327507,
+    "prediction": 1,
+    "tci": 0.7987261288717005,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6668254470575967,
+      "entropy": 0.41077661904447166,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 315,
+    "true_label": 1,
+    "calibrated_score": 0.9999087721926986,
+    "prediction": 1,
+    "tci": 0.8331663838586483,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9070086058609736,
+      "qsvm": 0.8806866832546726,
+      "entropy": 0.5802481414559931,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 316,
+    "true_label": 1,
+    "calibrated_score": 0.9998113386673574,
+    "prediction": 1,
+    "tci": 0.7846461526872104,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5723145337314341,
+      "entropy": 0.4285948650126432,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 317,
+    "true_label": 1,
+    "calibrated_score": 0.9998202962446832,
+    "prediction": 1,
+    "tci": 0.7859794991338959,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5856474144563767,
+      "entropy": 0.4214307437717637,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 318,
+    "true_label": 1,
+    "calibrated_score": 0.9998524490628514,
+    "prediction": 1,
+    "tci": 0.8005904777262818,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6368283438551586,
+      "entropy": 0.4654772019989702,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 319,
+    "true_label": 1,
+    "calibrated_score": 0.9998263708875625,
+    "prediction": 1,
+    "tci": 0.787059460489409,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5948926135067961,
+      "entropy": 0.4175262243287867,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 320,
+    "true_label": 1,
+    "calibrated_score": 0.999955937472781,
+    "prediction": 1,
+    "tci": 0.8412906306066447,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.8883132408311463,
+      "entropy": 0.44836949632034956,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 321,
+    "true_label": 1,
+    "calibrated_score": 0.9998280997167538,
+    "prediction": 1,
+    "tci": 0.793678339099615,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9899988795518204,
+      "qsvm": 0.616815396880188,
+      "entropy": 0.4618103328300725,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 322,
+    "true_label": 1,
+    "calibrated_score": 0.9999118090363018,
+    "prediction": 1,
+    "tci": 0.8174772614768094,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.75424780960297,
+      "entropy": 0.4404130241550354,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 323,
+    "true_label": 1,
+    "calibrated_score": 0.999946137310638,
+    "prediction": 1,
+    "tci": 0.8356417791977059,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.8516849663282074,
+      "entropy": 0.45403982352181355,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 324,
+    "true_label": 1,
+    "calibrated_score": 0.9999494025553057,
+    "prediction": 1,
+    "tci": 0.8378354453956792,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.8737316833962928,
+      "entropy": 0.45707288218944964,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 325,
+    "true_label": 1,
+    "calibrated_score": 0.9998288618086311,
+    "prediction": 1,
+    "tci": 0.7889962721261325,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5987348877626428,
+      "entropy": 0.42697893602891135,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 326,
+    "true_label": 1,
+    "calibrated_score": 0.999826238654726,
+    "prediction": 1,
+    "tci": 0.7903200283917184,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5946894979018411,
+      "entropy": 0.4420159174852139,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 327,
+    "true_label": 1,
+    "calibrated_score": 0.9998223808839275,
+    "prediction": 1,
+    "tci": 0.785737769044711,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5888006723810479,
+      "entropy": 0.4155943257441492,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 328,
+    "true_label": 1,
+    "calibrated_score": 0.9998584115188272,
+    "prediction": 1,
+    "tci": 0.8114313087334107,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933333333333334,
+      "qsvm": 0.6589627494890445,
+      "entropy": 0.5358350323650923,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 329,
+    "true_label": 1,
+    "calibrated_score": 0.9999502511210145,
+    "prediction": 1,
+    "tci": 0.8384696245415694,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.876797848523442,
+      "entropy": 0.4581010407648489,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 330,
+    "true_label": 1,
+    "calibrated_score": 0.9997624827378686,
+    "prediction": 1,
+    "tci": 0.7938300077788083,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5044320569615461,
+      "entropy": 0.5733412009792664,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 331,
+    "true_label": 1,
+    "calibrated_score": 0.9997988236223426,
+    "prediction": 1,
+    "tci": 0.7824339258156059,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5542186916185144,
+      "entropy": 0.43518109024737317,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 332,
+    "true_label": 1,
+    "calibrated_score": 0.9999140697593117,
+    "prediction": 1,
+    "tci": 0.8200626565079011,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.7715728990597479,
+      "entropy": 0.45508217349616054,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 333,
+    "true_label": 1,
+    "calibrated_score": 0.9998271694156634,
+    "prediction": 1,
+    "tci": 0.7905091612849064,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5961210072564272,
+      "entropy": 0.4415978704896988,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 334,
+    "true_label": 0,
+    "calibrated_score": 0.00016445924038027725,
+    "prediction": 0,
+    "tci": 0.8200295589137658,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9861936079355119,
+      "qsvm": 0.7166672791479729,
+      "entropy": 0.5448221760684305,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 335,
+    "true_label": 0,
+    "calibrated_score": 0.00029088829370256145,
+    "prediction": 0,
+    "tci": 0.7778783708295665,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9936990798081805,
+      "qsvm": 0.561297334273246,
+      "entropy": 0.40846060213124485,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 336,
+    "true_label": 1,
+    "calibrated_score": 0.9998148416427565,
+    "prediction": 1,
+    "tci": 0.7864819957780608,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5774880525785285,
+      "entropy": 0.435494060284777,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 337,
+    "true_label": 1,
+    "calibrated_score": 0.9997930892936145,
+    "prediction": 1,
+    "tci": 0.783363318749333,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5555481238163069,
+      "entropy": 0.45055701016655636,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 338,
+    "true_label": 1,
+    "calibrated_score": 0.9999588225463372,
+    "prediction": 1,
+    "tci": 0.8423406181474276,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9946659497244252,
+      "qsvm": 0.9072292252175452,
+      "entropy": 0.439116957377711,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 339,
+    "true_label": 1,
+    "calibrated_score": 0.9998201271490973,
+    "prediction": 1,
+    "tci": 0.7895018928191495,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5853925038318623,
+      "entropy": 0.4477322005353425,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 340,
+    "true_label": 1,
+    "calibrated_score": 0.9996571889686543,
+    "prediction": 1,
+    "tci": 0.7756355421155796,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9906633500677398,
+      "qsvm": 0.39976513929772445,
+      "entropy": 0.5818653773998821,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 341,
+    "true_label": 1,
+    "calibrated_score": 0.9998334068101783,
+    "prediction": 1,
+    "tci": 0.7936238461663118,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6058269741515611,
+      "entropy": 0.45247712559417463,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 342,
+    "true_label": 0,
+    "calibrated_score": 0.00038927767016017084,
+    "prediction": 0,
+    "tci": 0.7738184161949497,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.990969549597446,
+      "qsvm": 0.47848919430110676,
+      "entropy": 0.4856855573280196,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 343,
+    "true_label": 1,
+    "calibrated_score": 0.9998116703371109,
+    "prediction": 1,
+    "tci": 0.7807413887715389,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5818059890143539,
+      "entropy": 0.3984992918906484,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 344,
+    "true_label": 1,
+    "calibrated_score": 0.9998383519920063,
+    "prediction": 1,
+    "tci": 0.7914063691508706,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933313414254341,
+      "qsvm": 0.6262468349927752,
+      "entropy": 0.4248093202035572,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 345,
+    "true_label": 1,
+    "calibrated_score": 0.9998134483774885,
+    "prediction": 1,
+    "tci": 0.7871219479529498,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5754243049537423,
+      "entropy": 0.4427734308499957,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 346,
+    "true_label": 1,
+    "calibrated_score": 0.9998307361358832,
+    "prediction": 1,
+    "tci": 0.7908599635810681,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.601646631633788,
+      "entropy": 0.43714092335556015,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 347,
+    "true_label": 1,
+    "calibrated_score": 0.9998213317360407,
+    "prediction": 1,
+    "tci": 0.7843097622503349,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9883302522420498,
+      "qsvm": 0.6100058549108238,
+      "entropy": 0.4049613087516197,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 348,
+    "true_label": 0,
+    "calibrated_score": 0.0005843258202425064,
+    "prediction": 0,
+    "tci": 0.7489775201998379,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.7805632067371729,
+      "qsvm": 0.7694445989134753,
+      "entropy": 0.36289114412828677,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 349,
+    "true_label": 0,
+    "calibrated_score": 6.579288435783707e-05,
+    "prediction": 0,
+    "tci": 0.8356105872915864,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9992525190731987,
+      "qsvm": 0.8796751855167182,
+      "entropy": 0.4094140385474854,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 350,
+    "true_label": 0,
+    "calibrated_score": 0.0009304312177826448,
+    "prediction": 0,
+    "tci": 0.6640239567139409,
+    "d_score": 0.0,
+    "verdict": "UNCERTAIN",
+    "gates": {
+      "rf": 0.9694837922873331,
+      "qsvm": 0.05020666249823792,
+      "entropy": 0.34803250139175573,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 351,
+    "true_label": 0,
+    "calibrated_score": 0.00010579736022381751,
+    "prediction": 0,
+    "tci": 0.8346202540465973,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9865129380944444,
+      "qsvm": 0.808003859826714,
+      "entropy": 0.5412078928011105,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 352,
+    "true_label": 0,
+    "calibrated_score": 0.00011361957311450018,
+    "prediction": 0,
+    "tci": 0.8323486999638231,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9911810836803722,
+      "qsvm": 0.7869662068534024,
+      "entropy": 0.5413287676781454,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 353,
+    "true_label": 0,
+    "calibrated_score": 0.0004747797115279358,
+    "prediction": 0,
+    "tci": 0.774204929872936,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9237504680456297,
+      "qsvm": 0.5684285250464155,
+      "entropy": 0.5261055154141642,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 354,
+    "true_label": 1,
+    "calibrated_score": 0.9998148804374066,
+    "prediction": 1,
+    "tci": 0.786169497318671,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.5930872701921008,
+      "entropy": 0.4315576468266215,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 355,
+    "true_label": 1,
+    "calibrated_score": 0.9998196069337307,
+    "prediction": 1,
+    "tci": 0.7901020913388521,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5846090872629752,
+      "entropy": 0.45314122290210257,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 356,
+    "true_label": 1,
+    "calibrated_score": 0.9998480465903287,
+    "prediction": 1,
+    "tci": 0.7999034193607848,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6294595076593203,
+      "entropy": 0.4697352713155474,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 357,
+    "true_label": 0,
+    "calibrated_score": 0.0002515631172883709,
+    "prediction": 0,
+    "tci": 0.7953049929330965,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9991414813898315,
+      "qsvm": 0.590279972171419,
+      "entropy": 0.48646664266783857,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 358,
+    "true_label": 1,
+    "calibrated_score": 0.9998503516699718,
+    "prediction": 1,
+    "tci": 0.7977957598241772,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6333014105155526,
+      "entropy": 0.44860261563839776,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 359,
+    "true_label": 1,
+    "calibrated_score": 0.9997623512320329,
+    "prediction": 1,
+    "tci": 0.7704526334576554,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5042578823973384,
+      "entropy": 0.41178459082707847,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 360,
+    "true_label": 1,
+    "calibrated_score": 0.9997869054943354,
+    "prediction": 1,
+    "tci": 0.7764991651022931,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.537485900314543,
+      "entropy": 0.4134986740795534,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 361,
+    "true_label": 0,
+    "calibrated_score": 0.00020146563753484855,
+    "prediction": 0,
+    "tci": 0.8022888026056978,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9859214266362238,
+      "qsvm": 0.6706957378463584,
+      "entropy": 0.46603559255545246,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 362,
+    "true_label": 1,
+    "calibrated_score": 0.9998369856435502,
+    "prediction": 1,
+    "tci": 0.7915349359807724,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9966655462184872,
+      "qsvm": 0.6178321091548575,
+      "entropy": 0.4290367749122064,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 363,
+    "true_label": 0,
+    "calibrated_score": 0.000193717086783988,
+    "prediction": 0,
+    "tci": 0.7953922312550717,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9895566398160356,
+      "qsvm": 0.6736318248455199,
+      "entropy": 0.399910913840747,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 364,
+    "true_label": 1,
+    "calibrated_score": 0.9996475623334297,
+    "prediction": 1,
+    "tci": 0.7753223178933365,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9833299719887956,
+      "qsvm": 0.4100856740262329,
+      "entropy": 0.5848289401058068,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 365,
+    "true_label": 1,
+    "calibrated_score": 0.9997927483735284,
+    "prediction": 1,
+    "tci": 0.7785938280355944,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5456329995952156,
+      "entropy": 0.41830556745936115,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 366,
+    "true_label": 1,
+    "calibrated_score": 0.9995620601605492,
+    "prediction": 1,
+    "tci": 0.7329841937604211,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9672448547794412,
+      "qsvm": 0.36990900946406036,
+      "entropy": 0.4024168270044921,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 367,
+    "true_label": 1,
+    "calibrated_score": 0.9996124307616644,
+    "prediction": 1,
+    "tci": 0.741281783205759,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9822167445871473,
+      "qsvm": 0.37497960368852545,
+      "entropy": 0.4126445039748671,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 368,
+    "true_label": 1,
+    "calibrated_score": 0.9994699088110781,
+    "prediction": 1,
+    "tci": 0.7538954090593681,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9375464181967754,
+      "qsvm": 0.3816477911622741,
+      "entropy": 0.5759648991197059,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 369,
+    "true_label": 1,
+    "calibrated_score": 0.9998233355332502,
+    "prediction": 1,
+    "tci": 0.7912910699196396,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9966655462184872,
+      "qsvm": 0.5968202597704682,
+      "entropy": 0.4542569168360342,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 370,
+    "true_label": 1,
+    "calibrated_score": 0.9998190885980609,
+    "prediction": 1,
+    "tci": 0.7854265745181281,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9916647060235622,
+      "qsvm": 0.6002911772807058,
+      "entropy": 0.41810132309215975,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 371,
+    "true_label": 1,
+    "calibrated_score": 0.9998353106880592,
+    "prediction": 1,
+    "tci": 0.7941422638767363,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6088303147555177,
+      "entropy": 0.45253099743552677,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 372,
+    "true_label": 1,
+    "calibrated_score": 0.9998610447069656,
+    "prediction": 1,
+    "tci": 0.7930318050129133,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.6654270618997583,
+      "entropy": 0.386625454493916,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 373,
+    "true_label": 1,
+    "calibrated_score": 0.9983568776869998,
+    "prediction": 1,
+    "tci": 0.7179612201306914,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.8020529992739489,
+      "qsvm": 0.3211926375477078,
+      "entropy": 0.6793609794768413,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 374,
+    "true_label": 1,
+    "calibrated_score": 0.9999036675599365,
+    "prediction": 1,
+    "tci": 0.8319785268448671,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.900341939194307,
+      "qsvm": 0.8797274457498621,
+      "entropy": 0.5840274233833364,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 375,
+    "true_label": 1,
+    "calibrated_score": 0.9999588225463372,
+    "prediction": 1,
+    "tci": 0.8423406181474276,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9946659497244252,
+      "qsvm": 0.9072292252175452,
+      "entropy": 0.439116957377711,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 376,
+    "true_label": 1,
+    "calibrated_score": 0.9997985504048147,
+    "prediction": 1,
+    "tci": 0.7825293144170825,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5538299369105717,
+      "entropy": 0.43634809117839096,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 377,
+    "true_label": 1,
+    "calibrated_score": 0.9998015053452274,
+    "prediction": 1,
+    "tci": 0.7807914587722309,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5580481362092835,
+      "entropy": 0.41857657742071136,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 378,
+    "true_label": 1,
+    "calibrated_score": 0.9998280997167538,
+    "prediction": 1,
+    "tci": 0.793678339099615,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9899988795518204,
+      "qsvm": 0.616815396880188,
+      "entropy": 0.4618103328300725,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 379,
+    "true_label": 0,
+    "calibrated_score": 0.00014208345660040884,
+    "prediction": 0,
+    "tci": 0.8088316115477387,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9921118800131182,
+      "qsvm": 0.7390453043169048,
+      "entropy": 0.4083831846242589,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 380,
+    "true_label": 1,
+    "calibrated_score": 0.9998052646410576,
+    "prediction": 1,
+    "tci": 0.7869013229510852,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5726100612496678,
+      "entropy": 0.4549839918347726,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 381,
+    "true_label": 1,
+    "calibrated_score": 0.9998524490628514,
+    "prediction": 1,
+    "tci": 0.8005904777262818,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6368283438551586,
+      "entropy": 0.4654772019989702,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 382,
+    "true_label": 1,
+    "calibrated_score": 0.9998498072608809,
+    "prediction": 1,
+    "tci": 0.7971439099274563,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6323908407715043,
+      "entropy": 0.44479650417458094,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 383,
+    "true_label": 1,
+    "calibrated_score": 0.999942762351995,
+    "prediction": 1,
+    "tci": 0.8336711405491619,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.851042946556411,
+      "entropy": 0.45457731843785876,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 384,
+    "true_label": 1,
+    "calibrated_score": 0.999951459299284,
+    "prediction": 1,
+    "tci": 0.8388754280510747,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.8812358616165492,
+      "entropy": 0.45468953148649477,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 385,
+    "true_label": 1,
+    "calibrated_score": 0.9998224521068841,
+    "prediction": 1,
+    "tci": 0.7876505538407426,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5889087577953946,
+      "entropy": 0.4296007349808306,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 386,
+    "true_label": 1,
+    "calibrated_score": 0.9998178705051788,
+    "prediction": 1,
+    "tci": 0.7852470529223866,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9916647060235622,
+      "qsvm": 0.598514546631997,
+      "entropy": 0.41908404043065933,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 387,
+    "true_label": 1,
+    "calibrated_score": 0.9998268045713395,
+    "prediction": 1,
+    "tci": 0.7871304579836729,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5955593709129157,
+      "entropy": 0.41719112959467736,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 388,
+    "true_label": 1,
+    "calibrated_score": 0.9998263685616527,
+    "prediction": 1,
+    "tci": 0.7881501499571516,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9966655462184872,
+      "qsvm": 0.6014072713236855,
+      "entropy": 0.4250797344197747,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 389,
+    "true_label": 0,
+    "calibrated_score": 0.0001290477892955075,
+    "prediction": 0,
+    "tci": 0.8295117316910825,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9992525190731987,
+      "qsvm": 0.74835203509131,
+      "entropy": 0.5528936047539097,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 390,
+    "true_label": 0,
+    "calibrated_score": 0.00022787958473450068,
+    "prediction": 0,
+    "tci": 0.79258032706213,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9959203061880446,
+      "qsvm": 0.6223722203095043,
+      "entropy": 0.4327234297717557,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 391,
+    "true_label": 1,
+    "calibrated_score": 0.9998153935145336,
+    "prediction": 1,
+    "tci": 0.7872403059632926,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5783077482389638,
+      "entropy": 0.44001977008319404,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 392,
+    "true_label": 1,
+    "calibrated_score": 0.999863108064624,
+    "prediction": 1,
+    "tci": 0.8024103889086924,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9855511983686598,
+      "qsvm": 0.6805414772795108,
+      "entropy": 0.45455186398356534,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 393,
+    "true_label": 1,
+    "calibrated_score": 0.9998243923115729,
+    "prediction": 1,
+    "tci": 0.7922018773472205,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5918622620717829,
+      "entropy": 0.4595582506322744,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 394,
+    "true_label": 1,
+    "calibrated_score": 0.9998022069655121,
+    "prediction": 1,
+    "tci": 0.7851107966244228,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5682758262761612,
+      "entropy": 0.4474048397882619,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 395,
+    "true_label": 1,
+    "calibrated_score": 0.999913229637834,
+    "prediction": 1,
+    "tci": 0.8180652708101142,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7576565815049899,
+      "entropy": 0.44044061721048616,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 396,
+    "true_label": 1,
+    "calibrated_score": 0.9998214193792271,
+    "prediction": 1,
+    "tci": 0.7895157361593447,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5873438176006417,
+      "entropy": 0.44537355302744236,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 397,
+    "true_label": 1,
+    "calibrated_score": 0.9999269680887881,
+    "prediction": 1,
+    "tci": 0.8241087931344349,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7929351168703288,
+      "entropy": 0.44036467568274756,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 398,
+    "true_label": 1,
+    "calibrated_score": 0.9997869269417231,
+    "prediction": 1,
+    "tci": 0.7807751505602512,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.987774665644882,
+      "qsvm": 0.5634823944722912,
+      "entropy": 0.44021246244815,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 399,
+    "true_label": 1,
+    "calibrated_score": 0.9998219749761863,
+    "prediction": 1,
+    "tci": 0.7872209228438899,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5881851290967668,
+      "entropy": 0.4273492245636665,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 400,
+    "true_label": 1,
+    "calibrated_score": 0.9997284201510684,
+    "prediction": 1,
+    "tci": 0.7674935227021219,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9966655462184872,
+      "qsvm": 0.4687339704971082,
+      "entropy": 0.4414545268640791,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 401,
+    "true_label": 1,
+    "calibrated_score": 0.9999623162393436,
+    "prediction": 1,
+    "tci": 0.8472620116428095,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.9158208104355439,
+      "entropy": 0.4612287599266744,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 402,
+    "true_label": 1,
+    "calibrated_score": 0.9998962745026664,
+    "prediction": 1,
+    "tci": 0.8152071239388786,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7193050659407617,
+      "entropy": 0.4712250636905237,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 403,
+    "true_label": 1,
+    "calibrated_score": 0.9957496247767601,
+    "prediction": 1,
+    "tci": 0.6697102274284321,
+    "d_score": 0.0,
+    "verdict": "UNCERTAIN",
+    "gates": {
+      "rf": 0.6684564954641321,
+      "qsvm": 0.3364015291771521,
+      "entropy": 0.6466648009359602,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 404,
+    "true_label": 1,
+    "calibrated_score": 0.9997677973825313,
+    "prediction": 1,
+    "tci": 0.7659587370656484,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933313414254341,
+      "qsvm": 0.5265257995241708,
+      "entropy": 0.36908916743806924,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 405,
+    "true_label": 0,
+    "calibrated_score": 0.0001479846398245503,
+    "prediction": 0,
+    "tci": 0.8245538426843991,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9970312926933346,
+      "qsvm": 0.7223354263481391,
+      "entropy": 0.5509884512884665,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 406,
+    "true_label": 1,
+    "calibrated_score": 0.9998151700589774,
+    "prediction": 1,
+    "tci": 0.7793921132982928,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.971104886622137,
+      "qsvm": 0.6337413748897142,
+      "entropy": 0.37711348447833865,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 407,
+    "true_label": 0,
+    "calibrated_score": 0.00015734115962148757,
+    "prediction": 0,
+    "tci": 0.8168436075396466,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9992525190731987,
+      "qsvm": 0.7050646901328897,
+      "entropy": 0.505823633959197,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 408,
+    "true_label": 1,
+    "calibrated_score": 0.9998866452367726,
+    "prediction": 1,
+    "tci": 0.8252914278860138,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9899966386554624,
+      "qsvm": 0.7159741640238251,
+      "entropy": 0.5803218217347176,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 409,
+    "true_label": 1,
+    "calibrated_score": 0.9999502333041784,
+    "prediction": 1,
+    "tci": 0.8382778498361405,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9966655462184872,
+      "qsvm": 0.870784138676043,
+      "entropy": 0.45589184381434683,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 410,
+    "true_label": 1,
+    "calibrated_score": 0.999870849535861,
+    "prediction": 1,
+    "tci": 0.8216379307480512,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.8892320731371963,
+      "qsvm": 0.8407483432261964,
+      "entropy": 0.5774501709219364,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 411,
+    "true_label": 1,
+    "calibrated_score": 0.9998493901907824,
+    "prediction": 1,
+    "tci": 0.7960463902973416,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6316946020162713,
+      "entropy": 0.43729987200222675,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 412,
+    "true_label": 1,
+    "calibrated_score": 0.999805015755967,
+    "prediction": 1,
+    "tci": 0.7864436355751204,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5722559685341575,
+      "entropy": 0.4521056870370795,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 413,
+    "true_label": 1,
+    "calibrated_score": 0.9998223665155097,
+    "prediction": 1,
+    "tci": 0.7857370063783381,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.588778870232092,
+      "entropy": 0.41561678389580736,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 414,
+    "true_label": 1,
+    "calibrated_score": 0.9998531135185573,
+    "prediction": 1,
+    "tci": 0.7991716812179874,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6379520271529,
+      "entropy": 0.45308769291805423,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 415,
+    "true_label": 1,
+    "calibrated_score": 0.9998080850786907,
+    "prediction": 1,
+    "tci": 0.7876675808901241,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5766392347232866,
+      "entropy": 0.45554353861345814,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 416,
+    "true_label": 1,
+    "calibrated_score": 0.999955313559865,
+    "prediction": 1,
+    "tci": 0.8408252303664723,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.8857981353634975,
+      "entropy": 0.4480172841176155,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 417,
+    "true_label": 1,
+    "calibrated_score": 0.9998613953439326,
+    "prediction": 1,
+    "tci": 0.7863362605174258,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.998332492855942,
+      "qsvm": 0.6552106640388745,
+      "entropy": 0.333964429144553,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 418,
+    "true_label": 1,
+    "calibrated_score": 0.9998959428618484,
+    "prediction": 1,
+    "tci": 0.8295226149556404,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.900341939194307,
+      "qsvm": 0.8657023311203906,
+      "entropy": 0.5844853772499684,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 419,
+    "true_label": 1,
+    "calibrated_score": 0.9999432916138098,
+    "prediction": 1,
+    "tci": 0.8344604876536263,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.8420384055019302,
+      "entropy": 0.4583160239100872,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 420,
+    "true_label": 1,
+    "calibrated_score": 0.9998158332934458,
+    "prediction": 1,
+    "tci": 0.7891755098183126,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5789618741664148,
+      "entropy": 0.45339297222031094,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 421,
+    "true_label": 1,
+    "calibrated_score": 0.9998386151182757,
+    "prediction": 1,
+    "tci": 0.7907582197215745,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6140905912043003,
+      "entropy": 0.42022102651973087,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 422,
+    "true_label": 1,
+    "calibrated_score": 0.9997925540965741,
+    "prediction": 1,
+    "tci": 0.7778631314750539,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5548096981282046,
+      "entropy": 0.4121468359906116,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 423,
+    "true_label": 1,
+    "calibrated_score": 0.9999159630670886,
+    "prediction": 1,
+    "tci": 0.8210298058140127,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7643309345229662,
+      "entropy": 0.45613664081355676,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 424,
+    "true_label": 1,
+    "calibrated_score": 0.9998610447069656,
+    "prediction": 1,
+    "tci": 0.7930318050129133,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.6654270618997583,
+      "entropy": 0.386625454493916,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 425,
+    "true_label": 0,
+    "calibrated_score": 0.00013001422125025961,
+    "prediction": 0,
+    "tci": 0.8250950238506439,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9970312926933346,
+      "qsvm": 0.7502381341497589,
+      "entropy": 0.5177157902267115,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 426,
+    "true_label": 1,
+    "calibrated_score": 0.9998480465903287,
+    "prediction": 1,
+    "tci": 0.7999034193607848,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6294595076593203,
+      "entropy": 0.4697352713155474,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 427,
+    "true_label": 1,
+    "calibrated_score": 0.999926920805743,
+    "prediction": 1,
+    "tci": 0.8229720818016389,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922201059316846,
+      "qsvm": 0.8041978938449832,
+      "entropy": 0.4311580130487904,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 428,
+    "true_label": 1,
+    "calibrated_score": 0.9997732125624338,
+    "prediction": 1,
+    "tci": 0.7712570597627378,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9949991598050747,
+      "qsvm": 0.52992353011648,
+      "entropy": 0.3978378383921413,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 429,
+    "true_label": 1,
+    "calibrated_score": 0.9998165204753597,
+    "prediction": 1,
+    "tci": 0.7824236720169971,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5799856355940155,
+      "entropy": 0.4025418218513708,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 430,
+    "true_label": 0,
+    "calibrated_score": 0.0006336963019288864,
+    "prediction": 0,
+    "tci": 0.8566947390585161,
+    "d_score": 0.8445788934983839,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9022874667222573,
+      "qsvm": 0.5306921621366943,
+      "entropy": 0.5067473360990303,
+      "mdl": 0.9088743678263093
+    }
+  },
+  {
+    "index": 431,
+    "true_label": 1,
+    "calibrated_score": 0.9998411715264256,
+    "prediction": 1,
+    "tci": 0.7953902492387053,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.618203002218048,
+      "entropy": 0.4498987660956694,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 432,
+    "true_label": 0,
+    "calibrated_score": 0.00017865555337904227,
+    "prediction": 0,
+    "tci": 0.8068159362063239,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9992525190731987,
+      "qsvm": 0.6758659909967288,
+      "entropy": 0.4643022399701728,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 433,
+    "true_label": 0,
+    "calibrated_score": 0.01696944786573647,
+    "prediction": 0,
+    "tci": 0.8329627978393446,
+    "d_score": 0.5258888284218329,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.815732203448654,
+      "qsvm": 0.7512806032799298,
+      "entropy": 0.31553329705309974,
+      "mdl": 0.7511499976936006
+    }
+  },
+  {
+    "index": 434,
+    "true_label": 1,
+    "calibrated_score": 0.9998783044763072,
+    "prediction": 1,
+    "tci": 0.8027244325668942,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6831490992514897,
+      "entropy": 0.4199448883887585,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 435,
+    "true_label": 1,
+    "calibrated_score": 0.999836094864268,
+    "prediction": 1,
+    "tci": 0.7899221899671587,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9966655462184872,
+      "qsvm": 0.6164307973583344,
+      "entropy": 0.41872935552248763,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 436,
+    "true_label": 1,
+    "calibrated_score": 0.9998108441513044,
+    "prediction": 1,
+    "tci": 0.7824738833766737,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5715882064547533,
+      "entropy": 0.41366895151864913,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 437,
+    "true_label": 1,
+    "calibrated_score": 0.9998164867617076,
+    "prediction": 1,
+    "tci": 0.7856084330124021,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5799353619716068,
+      "entropy": 0.4259884326202963,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 438,
+    "true_label": 1,
+    "calibrated_score": 0.9998176786187054,
+    "prediction": 1,
+    "tci": 0.7907576116629014,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9888856521501721,
+      "qsvm": 0.6036425781470917,
+      "entropy": 0.45948910567178736,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 439,
+    "true_label": 1,
+    "calibrated_score": 0.999788110526261,
+    "prediction": 1,
+    "tci": 0.7767059978458181,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5391577124684892,
+      "entropy": 0.4128950618981507,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 440,
+    "true_label": 0,
+    "calibrated_score": 0.00012753057522852992,
+    "prediction": 0,
+    "tci": 0.8270944469254129,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.972642236287019,
+      "qsvm": 0.7912100117205251,
+      "entropy": 0.5297482066585412,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 441,
+    "true_label": 0,
+    "calibrated_score": 9.572555340652037e-05,
+    "prediction": 0,
+    "tci": 0.8389757450758687,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.998512220862958,
+      "qsvm": 0.8102830757576016,
+      "entropy": 0.5508491754222565,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 442,
+    "true_label": 1,
+    "calibrated_score": 0.9998334068101783,
+    "prediction": 1,
+    "tci": 0.7936238461663118,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6058269741515611,
+      "entropy": 0.45247712559417463,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 443,
+    "true_label": 1,
+    "calibrated_score": 0.9998660211501005,
+    "prediction": 1,
+    "tci": 0.7926562286896262,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9822169935756062,
+      "qsvm": 0.6912022290703156,
+      "entropy": 0.3708934929724023,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 444,
+    "true_label": 0,
+    "calibrated_score": 0.00019545503636666205,
+    "prediction": 0,
+    "tci": 0.8005293073473376,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9992525190731987,
+      "qsvm": 0.6544240826248129,
+      "entropy": 0.44354287339396725,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 445,
+    "true_label": 1,
+    "calibrated_score": 0.9997624826215126,
+    "prediction": 1,
+    "tci": 0.7938299835915278,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5044319028361395,
+      "entropy": 0.5733412009792664,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 446,
+    "true_label": 1,
+    "calibrated_score": 0.9998243923328622,
+    "prediction": 1,
+    "tci": 0.7922018828552047,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5918622945771236,
+      "entropy": 0.4595582506322744,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 447,
+    "true_label": 1,
+    "calibrated_score": 0.9999500201349487,
+    "prediction": 1,
+    "tci": 0.8394468005102069,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9866639280443765,
+      "qsvm": 0.8833446193162383,
+      "entropy": 0.4693060236338165,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 448,
+    "true_label": 1,
+    "calibrated_score": 0.9998076232539306,
+    "prediction": 1,
+    "tci": 0.787547213009147,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5759773910421826,
+      "entropy": 0.4554913600930404,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 449,
+    "true_label": 1,
+    "calibrated_score": 0.9997539664459065,
+    "prediction": 1,
+    "tci": 0.7924378186038008,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9949991598050747,
+      "qsvm": 0.5049404873511006,
+      "entropy": 0.5738493620895774,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 450,
+    "true_label": 1,
+    "calibrated_score": 0.9998315530962404,
+    "prediction": 1,
+    "tci": 0.791531133932985,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.6114818570693084,
+      "entropy": 0.4398624578538774,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 451,
+    "true_label": 1,
+    "calibrated_score": 0.9999084247157094,
+    "prediction": 1,
+    "tci": 0.8177042590407736,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7462834108480045,
+      "entropy": 0.45392623276457594,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 452,
+    "true_label": 1,
+    "calibrated_score": 0.9998219748849454,
+    "prediction": 1,
+    "tci": 0.7872208989229826,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5881849908189011,
+      "entropy": 0.4273492245636665,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 453,
+    "true_label": 1,
+    "calibrated_score": 0.9998840646047972,
+    "prediction": 1,
+    "tci": 0.8084278881724976,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6943209829611401,
+      "entropy": 0.4503733928628925,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 454,
+    "true_label": 1,
+    "calibrated_score": 0.9998709840501607,
+    "prediction": 1,
+    "tci": 0.8020452700777381,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6694429449623572,
+      "entropy": 0.43342251594985165,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 455,
+    "true_label": 1,
+    "calibrated_score": 0.9998866452367726,
+    "prediction": 1,
+    "tci": 0.8252914278860138,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9899966386554624,
+      "qsvm": 0.7159741640238251,
+      "entropy": 0.5803218217347176,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 456,
+    "true_label": 1,
+    "calibrated_score": 0.9997002528498551,
+    "prediction": 1,
+    "tci": 0.7606226094688876,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.42495871705798155,
+      "entropy": 0.43804047321495165,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 457,
+    "true_label": 1,
+    "calibrated_score": 0.9998142958010674,
+    "prediction": 1,
+    "tci": 0.7860255232867578,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5766785716895543,
+      "entropy": 0.4331716239398086,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 458,
+    "true_label": 1,
+    "calibrated_score": 0.9998704701735801,
+    "prediction": 1,
+    "tci": 0.8020905884180924,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6685000078452602,
+      "entropy": 0.43506572622929385,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 459,
+    "true_label": 1,
+    "calibrated_score": 0.9999618537379604,
+    "prediction": 1,
+    "tci": 0.8463671181361323,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.9137048536281152,
+      "entropy": 0.45583401553188957,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 460,
+    "true_label": 1,
+    "calibrated_score": 0.9999464090386366,
+    "prediction": 1,
+    "tci": 0.8406619710923087,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9631066591917936,
+      "qsvm": 0.9018030164164929,
+      "entropy": 0.5021810630037602,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 461,
+    "true_label": 1,
+    "calibrated_score": 0.998127741432308,
+    "prediction": 1,
+    "tci": 0.7200478994259942,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.7475154190466571,
+      "qsvm": 0.43497575068304917,
+      "entropy": 0.6654774398983584,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 462,
+    "true_label": 1,
+    "calibrated_score": 0.9999074519310186,
+    "prediction": 1,
+    "tci": 0.8157555271925747,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7440332295508332,
+      "entropy": 0.4406722025958077,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 463,
+    "true_label": 1,
+    "calibrated_score": 0.9998848014995,
+    "prediction": 1,
+    "tci": 0.8245318363648263,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933310924369747,
+      "qsvm": 0.7068951503249538,
+      "entropy": 0.5787950136467446,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 464,
+    "true_label": 1,
+    "calibrated_score": 0.9998351713805921,
+    "prediction": 1,
+    "tci": 0.7911159648883682,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.6170914152427045,
+      "entropy": 0.4294544605682278,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 465,
+    "true_label": 1,
+    "calibrated_score": 0.9998248402135573,
+    "prediction": 1,
+    "tci": 0.7924717725236403,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9888878930465308,
+      "qsvm": 0.6140826795956708,
+      "entropy": 0.4588566979386545,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 466,
+    "true_label": 1,
+    "calibrated_score": 0.9999168635673282,
+    "prediction": 1,
+    "tci": 0.8221403426057158,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7665642835523566,
+      "entropy": 0.4624581437001301,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 467,
+    "true_label": 1,
+    "calibrated_score": 0.9997917466215914,
+    "prediction": 1,
+    "tci": 0.7659555151320272,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9712140817764714,
+      "qsvm": 0.6029111081581243,
+      "entropy": 0.3216833195821232,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 468,
+    "true_label": 1,
+    "calibrated_score": 0.9998219749761863,
+    "prediction": 1,
+    "tci": 0.7872209228438899,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5881851290967668,
+      "entropy": 0.4273492245636665,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 469,
+    "true_label": 0,
+    "calibrated_score": 0.00015891233634821283,
+    "prediction": 0,
+    "tci": 0.8236027721885998,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9922703027147862,
+      "qsvm": 0.7143464128424865,
+      "entropy": 0.5638881311943194,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 470,
+    "true_label": 1,
+    "calibrated_score": 0.9998946028043438,
+    "prediction": 1,
+    "tci": 0.8112553535476048,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.715769325317071,
+      "entropy": 0.44354047745264635,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 471,
+    "true_label": 0,
+    "calibrated_score": 0.00016408740312102573,
+    "prediction": 0,
+    "tci": 0.8141590645079272,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9953654662215932,
+      "qsvm": 0.7020553278226689,
+      "entropy": 0.4967659687648592,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 472,
+    "true_label": 1,
+    "calibrated_score": 0.9996874780335954,
+    "prediction": 1,
+    "tci": 0.7823464613441234,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.8083107686105162,
+      "qsvm": 0.7846106925256073,
+      "entropy": 0.5131264893892004,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 473,
+    "true_label": 0,
+    "calibrated_score": 0.00017699142475105327,
+    "prediction": 0,
+    "tci": 0.817960496687517,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9944915290946503,
+      "qsvm": 0.6862206643193938,
+      "entropy": 0.5500009097721773,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 474,
+    "true_label": 1,
+    "calibrated_score": 0.999788110526261,
+    "prediction": 1,
+    "tci": 0.7767054266114006,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5391577124684892,
+      "entropy": 0.4128910017399912,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 475,
+    "true_label": 1,
+    "calibrated_score": 0.9997942899078498,
+    "prediction": 1,
+    "tci": 0.7848766664303036,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5478001197235819,
+      "entropy": 0.46056766152341283,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 476,
+    "true_label": 1,
+    "calibrated_score": 0.9999618537279421,
+    "prediction": 1,
+    "tci": 0.8463671103890489,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.913704808019008,
+      "entropy": 0.45583401553188957,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 477,
+    "true_label": 1,
+    "calibrated_score": 0.9998441336982877,
+    "prediction": 1,
+    "tci": 0.7961176497479729,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6230168730338745,
+      "entropy": 0.4491881903776629,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 478,
+    "true_label": 1,
+    "calibrated_score": 0.9999269681426443,
+    "prediction": 1,
+    "tci": 0.824108818451792,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7929352644418728,
+      "entropy": 0.44036467568274756,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 479,
+    "true_label": 1,
+    "calibrated_score": 0.9999588225463372,
+    "prediction": 1,
+    "tci": 0.8423406181474276,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9946659497244252,
+      "qsvm": 0.9072292252175452,
+      "entropy": 0.439116957377711,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 480,
+    "true_label": 1,
+    "calibrated_score": 0.9998273518780914,
+    "prediction": 1,
+    "tci": 0.784081997447868,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9933313414254341,
+      "qsvm": 0.6093360275706714,
+      "entropy": 0.39230889958739423,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 481,
+    "true_label": 1,
+    "calibrated_score": 0.9998459546165468,
+    "prediction": 1,
+    "tci": 0.7901611261681163,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9587737455111864,
+      "qsvm": 0.6987765635387887,
+      "entropy": 0.39510327092358244,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 482,
+    "true_label": 1,
+    "calibrated_score": 0.9998857065302613,
+    "prediction": 1,
+    "tci": 0.8048287398476319,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9977767817122367,
+      "qsvm": 0.7012899025369558,
+      "entropy": 0.41668930249314107,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 483,
+    "true_label": 1,
+    "calibrated_score": 0.9998161765200975,
+    "prediction": 1,
+    "tci": 0.7870974719013312,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9955545597131974,
+      "qsvm": 0.5883746492048628,
+      "entropy": 0.43661917760693464,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 484,
+    "true_label": 1,
+    "calibrated_score": 0.9998224521068841,
+    "prediction": 1,
+    "tci": 0.7876505538407426,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5889087577953946,
+      "entropy": 0.4296007349808306,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 485,
+    "true_label": 1,
+    "calibrated_score": 0.9998127212321436,
+    "prediction": 1,
+    "tci": 0.7852580587166241,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5743504240820493,
+      "entropy": 0.4304951012870803,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 486,
+    "true_label": 1,
+    "calibrated_score": 0.9998243986905558,
+    "prediction": 1,
+    "tci": 0.7892530013389885,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5918720018401761,
+      "entropy": 0.43768533817603955,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 487,
+    "true_label": 1,
+    "calibrated_score": 0.999861206021035,
+    "prediction": 1,
+    "tci": 0.7863909306764189,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.998332492855942,
+      "qsvm": 0.6548799903381441,
+      "entropy": 0.33486417462723556,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 488,
+    "true_label": 0,
+    "calibrated_score": 0.00027122554061370863,
+    "prediction": 0,
+    "tci": 0.7841207260405059,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9992525190731987,
+      "qsvm": 0.5694588661072632,
+      "entropy": 0.43012345148628556,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 489,
+    "true_label": 1,
+    "calibrated_score": 0.9999205789280797,
+    "prediction": 1,
+    "tci": 0.8209932187022413,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7759704994380623,
+      "entropy": 0.43857541540068823,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 490,
+    "true_label": 1,
+    "calibrated_score": 0.9998739219479659,
+    "prediction": 1,
+    "tci": 0.8042851064778787,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6748810723756865,
+      "entropy": 0.44378103375412303,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 491,
+    "true_label": 0,
+    "calibrated_score": 0.001019124301851111,
+    "prediction": 0,
+    "tci": 0.8405018248956664,
+    "d_score": 0.602634595261886,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9022874667222573,
+      "qsvm": 0.36158075715713156,
+      "entropy": 0.5234813416634646,
+      "mdl": 0.9155374244942618
+    }
+  },
+  {
+    "index": 492,
+    "true_label": 1,
+    "calibrated_score": 0.9998407328178706,
+    "prediction": 1,
+    "tci": 0.7898805326536074,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9966655462184872,
+      "qsvm": 0.6237765968808776,
+      "entropy": 0.408688780466495,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 493,
+    "true_label": 1,
+    "calibrated_score": 0.9998013458357261,
+    "prediction": 1,
+    "tci": 0.7884333583698566,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9855534392650178,
+      "qsvm": 0.5873215079226762,
+      "entropy": 0.47055041615651766,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 494,
+    "true_label": 1,
+    "calibrated_score": 0.999934451774744,
+    "prediction": 1,
+    "tci": 0.8328342400389783,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9677751635381258,
+      "qsvm": 0.859310438407837,
+      "entropy": 0.4882037413238825,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 495,
+    "true_label": 1,
+    "calibrated_score": 0.9999185729581731,
+    "prediction": 1,
+    "tci": 0.8219167157439413,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.7708528533906484,
+      "entropy": 0.45422116430709386,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 496,
+    "true_label": 1,
+    "calibrated_score": 0.9998296823176693,
+    "prediction": 1,
+    "tci": 0.7906970350715607,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.6000073323166298,
+      "entropy": 0.43802817354955925,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 497,
+    "true_label": 1,
+    "calibrated_score": 0.9998224520780952,
+    "prediction": 1,
+    "tci": 0.7876505462929083,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5889087141016183,
+      "entropy": 0.4296007349808306,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 498,
+    "true_label": 1,
+    "calibrated_score": 0.9998224520780952,
+    "prediction": 1,
+    "tci": 0.7876505462929083,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 1.0,
+      "qsvm": 0.5889087141016183,
+      "entropy": 0.4296007349808306,
+      "mdl": 0.0
+    }
+  },
+  {
+    "index": 499,
+    "true_label": 1,
+    "calibrated_score": 0.999745965386599,
+    "prediction": 1,
+    "tci": 0.7612787146254891,
+    "d_score": 0.0,
+    "verdict": "PROBABLE",
+    "gates": {
+      "rf": 0.9806627898436027,
+      "qsvm": 0.5275728471550575,
+      "entropy": 0.3658724556253003,
+      "mdl": 0.0
+    }
+  }
+]

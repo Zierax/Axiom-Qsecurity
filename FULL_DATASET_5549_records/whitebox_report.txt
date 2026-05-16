@@ -1,0 +1,65 @@
+==================================================================================
+  AXIOM-QUANTUM v1.0  |  Whitebox Audit Report
+==================================================================================
+  Dataset:       _dataset.csv
+  Model:         model_v1.pkl
+  Records:       5549 (2797 malware, 2752 benign)
+  Features:      32
+
+  --- Performance ---
+  Accuracy:      0.9921
+  Precision:     0.9968
+  Recall:        0.9875
+  F1-Score:      0.9921
+  FPR:           0.0033
+  AUC:           0.9996
+  TP=2762  FP=9  FN=35  TN=2743
+
+  --- Verdict Breakdown ---
+  PROBABLE          5072/5549 ( 91.4%)  acc=0.9998
+  UNCERTAIN          417/5549 (  7.5%)  acc=0.9400
+  WEAK                57/5549 (  1.0%)  acc=0.7193
+  REJECT               3/5549 (  0.1%)  acc=0.3333
+
+  --- Gate Statistics (mean +- std) ---
+  RF Confidence        0.9423 +- 0.1451
+  QSVM Confidence      0.6248 +- 0.1238
+  Entropy              0.3709 +- 0.1236
+  MDL                  0.0164 +- 0.1094
+
+  --- Quantum Collapse Metrics ---
+  collapse_magnitude        mean=0.2755  std=0.0395
+  collapse_coherence        mean=0.6909  std=0.0429
+  collapse_entropy          mean=0.7152  std=0.0584
+  collapse_score            mean=0.1894  std=0.0265
+
+  --- Calibration ---
+  Temperature:    0.5928
+  ECE:            0.0065
+  Threshold:      0.7757
+
+  --- Confusion Matrix ---
+              Pred Mal  Pred Ben
+  Actual Mal      2762        35
+  Actual Ben         9      2743
+
+  --- Model Summary ---
+  Version:       v1.0
+  Type:          ensemble
+  Holdout Acc:   0.9798
+  CV Acc:        0.9903
+   Pruned Trees:  11
+
+  --- Resource & Power Estimate ---
+  Binary Size:       23.4 KB (compiled .so)
+  RAM Estimate:      ~47 KB (code + node data)
+  Flash Estimate:    ~35 KB (embedded deployment)
+  Python Latency:    783.3 us/rec (full ensemble+Truthimatics)
+  C Engine Latency:  ~5 us/rec @ 187K rec/s (x86-64 gcc -O3)
+  Throughput:        ~1,277 rec/s (Python fallback)
+  Single Inf.:       ~4-58 us (C engine, cold start)
+  Energy/Inf.:       ~0.001 J (x86-64), ~0.00001 J (ARM M4 @ 100 MHz)
+  Power (load):      ~0.5-2 W (x86-64), ~0.01-0.1 W (ARM Cortex-M4)
+  Power (idle):      ~0.05 W (x86-64), ~0.001 W (ARM sleep)
+
+==================================================================================
