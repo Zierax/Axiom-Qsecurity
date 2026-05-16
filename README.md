@@ -14,7 +14,7 @@
 | **F1-Score** | 0.9921 | 1.0000 |
 | **FPR** | 0.0033 | 0.0000 |
 | **AUC** | 0.9996 | 1.0000 |
-| **ECE** | 0.0065 | 0.0065 |
+| **ECE** | 0.0065 | 0.0033 |
 
 - **Full Dataset**: 2,797 malware + 2,752 benign (mixed seen/unseen — training was subsampled from this set)
 - **IoT Dataset**: 1,266 malware + 238 benign (syscalls from real IoT devices — **100% unseen** by the model)
